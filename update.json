@@ -1,6 +1,6 @@
 {
-  "version": "2.2.4",
+  "version": "2.2.5",
   "download_url": "https://github.com/fantasy-1608/aladinn-data/releases/latest",
-  "release_notes": "CDS drug-lab hepatotoxicity rules expansion, online sync fix",
+  "release_notes": "CDS online sync from SW, remote-config URL fix, and new hepatotoxicity drug-lab rules (ALT/AST)",
   "min_chrome_version": "120"
 }
