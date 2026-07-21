@@ -1,6 +1,6 @@
 {
-  "version": "2.2.5",
+  "version": "2.2.9",
   "download_url": "https://github.com/fantasy-1608/aladinn-data/releases/latest",
-  "release_notes": "CDS online sync from SW, remote-config URL fix, and new hepatotoxicity drug-lab rules (ALT/AST)",
+  "release_notes": "Fix UI showing bundled version instead of synced IndexedDB version for OTA rules. Sync new NHIC rules.",
   "min_chrome_version": "120"
 }
