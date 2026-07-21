@@ -6974,5 +6974,93 @@
     "dosage_form": "",
     "route": "",
     "is_primary": true
+  },
+  {
+    "brand_name": "acupan",
+    "generic_name": "nefopam hydroclorid",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "ketamine hydrochloride injection",
+    "generic_name": "ketamin",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "mextropol",
+    "generic_name": "trimebutin maleat",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "vintor 2000",
+    "generic_name": "erythropoietin",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "albendazol 400",
+    "generic_name": "albendazol",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "biovacor",
+    "generic_name": "pravastatin",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "bividia 50",
+    "generic_name": "sitagliptin",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "bivitero 150",
+    "generic_name": "irbesartan",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "hoa đà tái tạo hoàn",
+    "generic_name": "xuyên khung / tần giao / bạch chỉ / đương quy / mạch môn / hồng sâm / ngô thù du / ngũ vị tử / băng phiến",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "nebivolol 5mg",
+    "generic_name": "nebivolol",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "teldy [arv]",
+    "generic_name": "tenoforvir / lamivudine / dolutegravir",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
   }
 ]

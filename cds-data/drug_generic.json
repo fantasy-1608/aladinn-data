@@ -4054,5 +4054,21 @@
     "pharmacologic_class": "unknown",
     "therapeutic_class": "unknown",
     "is_active": true
+  },
+  {
+    "generic_name": "xuyên khung / tần giao / bạch chỉ / đương quy / mạch môn / hồng sâm / ngô thù du / ngũ vị tử / băng phiến",
+    "generic_name_en": "xuyên khung / tần giao / bạch chỉ / đương quy / mạch môn / hồng sâm / ngô thù du / ngũ vị tử / băng phiến",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "tenoforvir / lamivudine / dolutegravir",
+    "generic_name_en": "tenoforvir / lamivudine / dolutegravir",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
   }
 ]
