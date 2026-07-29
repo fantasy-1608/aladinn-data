@@ -1,5 +1,59 @@
 {
-    "ruleset_version": "2026-07-29-nhic-seed-1257-rules",
+    "ruleset_version": "2026-07-29-nhic-seed-1328-rules",
     "ruleset_source": "Checkmap Pipeline v1.0 + drug-lab hepatotoxicity expansion",
-    "last_updated": "2026-07-29T02:54:38.849Z"
+    "last_updated": "2026-07-29T15:56:33.590Z",
+    "generation": 1785340593590,
+    "snapshot_sha256": "50d94f779921e8a34983834d87d41ba226f6b0c97eed42d9cc6442187b462c14",
+    "files": {
+        "drug_generic.json": {
+            "sha256": "bdf48d3da4e7592f642a2e8320a4bc23d1ef7c119ab0ad6c89a16e817069a39b",
+            "count": 509,
+            "bytes": 120555
+        },
+        "brand_generic_map.json": {
+            "sha256": "41e8f15f1b64d0bddadc89b1b7e5b7e0a017b522e6f6b70cf32ba2d80a17f8b9",
+            "count": 885,
+            "bytes": 161404
+        },
+        "condition_group_icd_map.json": {
+            "sha256": "652f0f4e965ae4f55b8bffae1168c38b2c5d2dfe045b80c4e8e9fa248c94bc3f",
+            "count": 90,
+            "bytes": 6966
+        },
+        "ddi_rules.json": {
+            "sha256": "63c1df26cd678b6356413290442751c2343eb7c362507a15b75156b2a7303393",
+            "count": 1328,
+            "bytes": 605209
+        },
+        "drug_disease_rules.json": {
+            "sha256": "2ff3743ad9eaab49d87a9b9b1950281a10ab8aac8e0867ebc1bb0b30f5f70165",
+            "count": 27,
+            "bytes": 14814
+        },
+        "allergy_rules.json": {
+            "sha256": "23ef11a2657070bfc379bb28208521eaf59d2175317dad9c12c7127b121d4e73",
+            "count": 4,
+            "bytes": 1346
+        },
+        "insurance_formulary.json": {
+            "sha256": "e860d5912ae529be1d76b792de9924b59b4bb6f7513e8a562d5cb335ecc21a33",
+            "count": 5,
+            "bytes": 556
+        },
+        "insurance_rules.json": {
+            "sha256": "5056a2e1027834dc5a7d57e668f3adfc120f98a0c1288b2f47bcc67bc478e306",
+            "count": 117,
+            "bytes": 56068
+        },
+        "renal_adjustment_rules.json": {
+            "sha256": "b3f35cfc5aeb02917b65eb87244995e57270fe845b26dcfb289d7794aa84a463",
+            "count": 14,
+            "bytes": 6279
+        },
+        "drug_lab_rules.json": {
+            "sha256": "d2c609f958014fd1624f1785e847ad0c1750e0fd2d61d0ff52d5dc0c9f56c283",
+            "count": 31,
+            "bytes": 15189
+        }
+    }
 }
