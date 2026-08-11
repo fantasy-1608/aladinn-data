@@ -1,19 +1,19 @@
 {
-    "ruleset_version": "2026-07-29-nhic-seed-1328-rules",
+    "ruleset_version": "2026-08-11-nhic-seed-1399-rules",
     "ruleset_source": "Checkmap Pipeline v1.0 + drug-lab hepatotoxicity expansion",
-    "last_updated": "2026-07-29T15:56:33.590Z",
-    "generation": 1785340593590,
-    "snapshot_sha256": "50d94f779921e8a34983834d87d41ba226f6b0c97eed42d9cc6442187b462c14",
+    "last_updated": "2026-08-11T15:43:44.514Z",
+    "generation": 1786463024514,
+    "snapshot_sha256": "5612bcb69a443fc3147f3fc150a210659486735df1d46e1beb4e4b765a26ebce",
     "files": {
         "drug_generic.json": {
-            "sha256": "bdf48d3da4e7592f642a2e8320a4bc23d1ef7c119ab0ad6c89a16e817069a39b",
-            "count": 509,
-            "bytes": 120555
+            "sha256": "157e17f91bc0c065ba05bbb7fdc44080fe68a84df82c0012872cad9b10e47d62",
+            "count": 512,
+            "bytes": 121193
         },
         "brand_generic_map.json": {
-            "sha256": "41e8f15f1b64d0bddadc89b1b7e5b7e0a017b522e6f6b70cf32ba2d80a17f8b9",
-            "count": 885,
-            "bytes": 161404
+            "sha256": "ff955e2c3a6d28f606f236dcadf11062e063e5c55c75cc4dfd8af199daa1a281",
+            "count": 914,
+            "bytes": 166528
         },
         "condition_group_icd_map.json": {
             "sha256": "652f0f4e965ae4f55b8bffae1168c38b2c5d2dfe045b80c4e8e9fa248c94bc3f",
@@ -21,9 +21,9 @@
             "bytes": 6966
         },
         "ddi_rules.json": {
-            "sha256": "63c1df26cd678b6356413290442751c2343eb7c362507a15b75156b2a7303393",
-            "count": 1328,
-            "bytes": 605209
+            "sha256": "b53488b7b4592c15f8a933a4d6db047a1953a181674452b88ec78164e2c42564",
+            "count": 1399,
+            "bytes": 636095
         },
         "drug_disease_rules.json": {
             "sha256": "2ff3743ad9eaab49d87a9b9b1950281a10ab8aac8e0867ebc1bb0b30f5f70165",

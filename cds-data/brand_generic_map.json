@@ -7078,5 +7078,237 @@
     "dosage_form": "",
     "route": "",
     "is_primary": true
+  },
+  {
+    "brand_name": "a.t olanzapine odt 5 mg",
+    "generic_name": "olanzapin",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "bidizem 60",
+    "generic_name": "diltiazem",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "cefixime 100mg",
+    "generic_name": "cefixim",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "coversyl 5mg",
+    "generic_name": "perindopril",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "dolutegravir sodium tablet for oral suspension (dispersible tablets) 10mg h90",
+    "generic_name": "dolutegravir",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "esomeprazol 40mg",
+    "generic_name": "esomeprazol",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "ettaby",
+    "generic_name": "itoprid",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "glucofine 1000 mg",
+    "generic_name": "metformin",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "kavasdin 5",
+    "generic_name": "amlodipin",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "lamivudine and zidovudine tablets 150mg/300mg",
+    "generic_name": "lamivudine / zidovudin",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "medsolu 4 mg",
+    "generic_name": "methyl prednisolon",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "ofloxacin 0.3%",
+    "generic_name": "ofloxacin",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "perindopril/ indapamide 2/0.625",
+    "generic_name": "perindopril / indapamid",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "rotinvast 20",
+    "generic_name": "rosuvastatin",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "scilin m30 (30/70)",
+    "generic_name": "insulin người trộn / hỗn hợp",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "simvofix 10/10 mg",
+    "generic_name": "simvastatin / ezetimibe",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "tatanol",
+    "generic_name": "paracetamol",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "vacobamol plus",
+    "generic_name": "paracetamol / methocarbamol",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "diazepam 5mg",
+    "generic_name": "diazepam",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "dobucin",
+    "generic_name": "dobutamin",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "garnotal inj",
+    "generic_name": "phenobarbital",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "isosorbide mononitrate tablets 10mg",
+    "generic_name": "isosorbid mononitrat",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "meloxicam 15 mg/1,5 ml",
+    "generic_name": "meloxicam",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "nevirapine 10mg/ml/lọ 100ml",
+    "generic_name": "nevirapine",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "pdsolone-40mg",
+    "generic_name": "methyl prednisolon",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "pipebamid 3,375",
+    "generic_name": "piperacilin / tazobactam",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "rocuronium kabi 10mg/ml",
+    "generic_name": "rocuronium bromid",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "spreabac 2g",
+    "generic_name": "cefoperazon / sulbactam",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "vinsalmol",
+    "generic_name": "salbutamol sulfat",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
   }
 ]

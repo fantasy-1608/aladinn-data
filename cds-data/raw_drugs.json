@@ -3582,5 +3582,121 @@
   {
     "ten": "Trajenta",
     "hc": "Linagliptin"
+  },
+  {
+    "ten": "A.T Olanzapine ODT 5 mg",
+    "hc": "Olanzapin"
+  },
+  {
+    "ten": "Bidizem 60",
+    "hc": "Diltiazem"
+  },
+  {
+    "ten": "Cefixime 100mg",
+    "hc": "Cefixim"
+  },
+  {
+    "ten": "Coversyl 5mg",
+    "hc": "Perindopril"
+  },
+  {
+    "ten": "Dolutegravir Sodium tablet for Oral Suspension (Dispersible Tablets) 10mg H90",
+    "hc": "Dolutegravir"
+  },
+  {
+    "ten": "Esomeprazol 40mg",
+    "hc": "Esomeprazol"
+  },
+  {
+    "ten": "Ettaby",
+    "hc": "Itoprid"
+  },
+  {
+    "ten": "Glucofine 1000 mg",
+    "hc": "Metformin"
+  },
+  {
+    "ten": "Kavasdin 5",
+    "hc": "Amlodipin"
+  },
+  {
+    "ten": "Lamivudine and Zidovudine Tablets 150mg/300mg",
+    "hc": "Lamivudine + zidovudin"
+  },
+  {
+    "ten": "Medsolu 4 mg",
+    "hc": "Methyl prednisolon"
+  },
+  {
+    "ten": "Ofloxacin 0.3%",
+    "hc": "Ofloxacin"
+  },
+  {
+    "ten": "Perindopril/ Indapamide 2/0.625",
+    "hc": "Perindopril + indapamid"
+  },
+  {
+    "ten": "Rotinvast 20",
+    "hc": "Rosuvastatin"
+  },
+  {
+    "ten": "SciLin M30 (30/70)",
+    "hc": "Insulin người trộn, hỗn hợp"
+  },
+  {
+    "ten": "Simvofix 10/10 mg",
+    "hc": "Simvastatin + ezetimibe"
+  },
+  {
+    "ten": "Tatanol",
+    "hc": "Paracetamol (acetaminophen)"
+  },
+  {
+    "ten": "Vacobamol plus",
+    "hc": "Paracetamol + methocarbamol"
+  },
+  {
+    "ten": "Diazepam 5mg",
+    "hc": "Diazepam"
+  },
+  {
+    "ten": "Dobucin",
+    "hc": "Dobutamin"
+  },
+  {
+    "ten": "Garnotal Inj",
+    "hc": "Phenobarbital"
+  },
+  {
+    "ten": "Isosorbide Mononitrate Tablets 10mg",
+    "hc": "Isosorbid mononitrat"
+  },
+  {
+    "ten": "Meloxicam 15 mg/1,5 ml",
+    "hc": "Meloxicam"
+  },
+  {
+    "ten": "Nevirapine 10mg/ml/lọ 100ml",
+    "hc": "Nevirapine"
+  },
+  {
+    "ten": "Pdsolone-40mg",
+    "hc": "Methyl prednisolon"
+  },
+  {
+    "ten": "Pipebamid 3,375",
+    "hc": "Piperacilin + tazobactam"
+  },
+  {
+    "ten": "Rocuronium Kabi 10mg/ml",
+    "hc": "Rocuronium bromid"
+  },
+  {
+    "ten": "Spreabac 2g",
+    "hc": "Cefoperazon + sulbactam"
+  },
+  {
+    "ten": "Vinsalmol",
+    "hc": "Salbutamol sulfat"
   }
 ]
