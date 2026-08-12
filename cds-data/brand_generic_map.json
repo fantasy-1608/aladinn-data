@@ -7310,5 +7310,37 @@
     "dosage_form": "",
     "route": "",
     "is_primary": true
+  },
+  {
+    "brand_name": "actrapid",
+    "generic_name": "insulin người tác dụng nhanh / ngắn",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "hadunalin 1mg/ml",
+    "generic_name": "epinephrin",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "insunova - r (regular)",
+    "generic_name": "insulin người tác dụng nhanh / ngắn",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "máy thử đường huyết ac-300",
+    "generic_name": "máy thử đường huyết ac-300",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
   }
 ]

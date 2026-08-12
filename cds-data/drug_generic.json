@@ -4094,5 +4094,21 @@
     "pharmacologic_class": "unknown",
     "therapeutic_class": "unknown",
     "is_active": true
+  },
+  {
+    "generic_name": "insulin người tác dụng nhanh / ngắn",
+    "generic_name_en": "insulin người tác dụng nhanh / ngắn",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "máy thử đường huyết ac-300",
+    "generic_name_en": "máy thử đường huyết ac-300",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
   }
 ]
