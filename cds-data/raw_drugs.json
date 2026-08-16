@@ -3714,5 +3714,29 @@
   {
     "ten": "Máy thử đường huyết AC-300",
     "hc": "Máy thử đường huyết AC-300"
+  },
+  {
+    "ten": "BCG (Lọ 10 liều)",
+    "hc": "-"
+  },
+  {
+    "ten": "Ceftazidime 1000",
+    "hc": "Ceftazidim"
+  },
+  {
+    "ten": "Oresol Bidiphar",
+    "hc": "Glucose khan (dưới dạng Glucose monohydrat) 20g; Kali clorid 1,5g; Natri clorid 3,5g; Trinatricitrat khan (dưới dạng Tri natricitrat dihydrat) 2,545g"
+  },
+  {
+    "ten": "Sucefone 3g",
+    "hc": "Cefoperazon + sulbactam"
+  },
+  {
+    "ten": "Hayex",
+    "hc": "Bambuterol"
+  },
+  {
+    "ten": "Itraconazole 100 mg hard capsules",
+    "hc": "Itraconazol"
   }
 ]

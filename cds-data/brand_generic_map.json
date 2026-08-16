@@ -7342,5 +7342,45 @@
     "dosage_form": "",
     "route": "",
     "is_primary": true
+  },
+  {
+    "brand_name": "ceftazidime 1000",
+    "generic_name": "ceftazidim",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "oresol bidiphar",
+    "generic_name": "glucose khan    ; kali clorid  ; natri clorid  ; trinatricitrat khan",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "sucefone 3g",
+    "generic_name": "cefoperazon / sulbactam",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "hayex",
+    "generic_name": "bambuterol",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "itraconazole 100 mg hard capsules",
+    "generic_name": "itraconazol",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
   }
 ]
