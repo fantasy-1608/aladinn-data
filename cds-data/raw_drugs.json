@@ -3738,5 +3738,1365 @@
   {
     "ten": "Itraconazole 100 mg hard capsules",
     "hc": "Itraconazol"
+  },
+  {
+    "ten": "Buston Injection",
+    "hc": "Hyoscin butylbromid"
+  },
+  {
+    "ten": "INSUNOVA 30/70 (Biphasic)",
+    "hc": "Insulin người trộn, hỗn hợp"
+  },
+  {
+    "ten": "Smoflipid 20%",
+    "hc": "Nhũ dịch lipid"
+  },
+  {
+    "ten": "3BTP",
+    "hc": "Vitamin B1 (Thiamin nitrat) 100mg; Vitamin B6 (Pyridoxin hydroclorid) 200mg; Vitamin B12 (Cyanocobalamin) 200µg (mcg)"
+  },
+  {
+    "ten": "A.T Ascorbic syrup An Thiên (hộp 30 gói x 5ml)",
+    "hc": "Acid Ascorbic"
+  },
+  {
+    "ten": "A.T Ascorbic syrup An Thên (hộp 1 chai x 60ml)",
+    "hc": "Acid ascorbic (Vitamin C)"
+  },
+  {
+    "ten": "A.T Desloratadin",
+    "hc": "Desloratadin"
+  },
+  {
+    "ten": "ALERINIT 5MG",
+    "hc": "Levocetirizin dihydrochlorid 5mg"
+  },
+  {
+    "ten": "Acetylcysteine 200mg( Abbsin 200)",
+    "hc": "Acetylcystein"
+  },
+  {
+    "ten": "Acyclovir STELLA Cream",
+    "hc": "Acyclovir"
+  },
+  {
+    "ten": "Adalcrem 15g",
+    "hc": "Adapalene"
+  },
+  {
+    "ten": "Aleucin 500mg",
+    "hc": "N-Acetyl-DL-Leucin"
+  },
+  {
+    "ten": "Algostase 500 mg/50mg ( hộp 16 viên)",
+    "hc": "Paracetamol ; Caffeine"
+  },
+  {
+    "ten": "Alphachymotrypsin 8400 (Anti @)",
+    "hc": "Alphachymotrypsin 8400UI"
+  },
+  {
+    "ten": "Alphachymotrypsine (Alphadeka DK 8.4mg)",
+    "hc": "Alphachymotrypsine"
+  },
+  {
+    "ten": "Alsiful S.R. Tablets 10 mg",
+    "hc": "Alfuzosin hydroclorid 10mg"
+  },
+  {
+    "ten": "Altasyaris",
+    "hc": "Bismuth subsalicylat"
+  },
+  {
+    "ten": "Alxac 400mg",
+    "hc": "Albendazo"
+  },
+  {
+    "ten": "Amlodipin 5mg (Normodipine 5mg)",
+    "hc": "Amlodipin (dưới dạng Amlodipin besilat)"
+  },
+  {
+    "ten": "Angut 300mg DHG",
+    "hc": "Allopurinol"
+  },
+  {
+    "ten": "Apirison 50",
+    "hc": "Eperison hydroclorid"
+  },
+  {
+    "ten": "AtiMupicin",
+    "hc": "Mupirocin 2% W/W"
+  },
+  {
+    "ten": "Aticef 250",
+    "hc": "Cefadroxil"
+  },
+  {
+    "ten": "Aticef 500mg caps",
+    "hc": "Cefadroxil"
+  },
+  {
+    "ten": "Aumoxka Mebi 1G DT",
+    "hc": "Amoxicilin (dưới dạng Amoxicilin trihydrate); Potassium Clavulanate"
+  },
+  {
+    "ten": "Ausginin 500",
+    "hc": "L-Ornithin L-Aspartat"
+  },
+  {
+    "ten": "Avodart",
+    "hc": "Dutasteride"
+  },
+  {
+    "ten": "Azicine 250",
+    "hc": "Azithromycin (dưới dạng azithromycin dihydrate)"
+  },
+  {
+    "ten": "BAR",
+    "hc": "Bột Bìm Bìm (Semen Pharbitidis); Cao đặc Actisô (Extractum Cynarae spissum) (tương đương dược liệu khô lá actisô 1000mg); Cao đặc Rau Đắng Đất (Extractum Glini oppositifolii) (tương đương dược liệu khô cây rau đắng đất 562,5mg)"
+  },
+  {
+    "ten": "BUSTIDIN 20",
+    "hc": "Trimetazidin dihydroclorid"
+  },
+  {
+    "ten": "Baci-Subti",
+    "hc": "Bacillus subtilis"
+  },
+  {
+    "ten": "Bambuterol 10 A.T",
+    "hc": "Bambuterol hydroclorid"
+  },
+  {
+    "ten": "Batiwell",
+    "hc": "Bromhexin hydroclorid"
+  },
+  {
+    "ten": "Belara (hộp 21 viên)",
+    "hc": "Ethinylestradiol; Chlormadinon acetat"
+  },
+  {
+    "ten": "Betamethason",
+    "hc": "Betamethason dipropionat"
+  },
+  {
+    "ten": "Bilclamos BID 1000mg",
+    "hc": "Amoxicilin (dưới dạng Amoxicilin trihydrate); Potassium Clavulanate"
+  },
+  {
+    "ten": "Biocemet DT 500mg/62,5mg",
+    "hc": "Amoxicilin + acid Clavulanic"
+  },
+  {
+    "ten": "Biragan 150 viên đặt",
+    "hc": "Paracetamol"
+  },
+  {
+    "ten": "Bisoprolol fumarat (CORBIS Tablet 5mg)",
+    "hc": "Bisoprolol fumarat"
+  },
+  {
+    "ten": "Bixofen 180",
+    "hc": "Fexofenadin hydroclorid"
+  },
+  {
+    "ten": "Bloci",
+    "hc": "Ciprofloxacin (dưới dạng Ciprofloxacin hydrochlorid) 500mg"
+  },
+  {
+    "ten": "Bvpalin",
+    "hc": "Desloratadin"
+  },
+  {
+    "ten": "Bông gòn 25gr",
+    "hc": "-"
+  },
+  {
+    "ten": "Bông y tế Bảo Thạch 25gr (gói 25gr)",
+    "hc": "-"
+  },
+  {
+    "ten": "Băng cá nhân vải độ dính cao Urgo Durable (102 miếng/hộp)",
+    "hc": "-"
+  },
+  {
+    "ten": "Băng gạc làm sạch mảng hoại tử vết thuong Urgoclean Ag 10 x 10 cm urgo (10 miếng/Hộp)",
+    "hc": "-"
+  },
+  {
+    "ten": "Băng gạc lưới urgotul ag/silver 10cmx12cm urgo (hộp 16 miếng)",
+    "hc": "-"
+  },
+  {
+    "ten": "Băng keo lụa zilgo 1.25cm x 5cm",
+    "hc": "-"
+  },
+  {
+    "ten": "Băng thun y tế 3 móc Bảo Thạch",
+    "hc": "-"
+  },
+  {
+    "ten": "Bơm tiêm Insulin 1ml 1ml",
+    "hc": "-"
+  },
+  {
+    "ten": "Bảo thanh ngậm xanh hoa linh (100 viên/Hộp)",
+    "hc": "Cao lỏng (1:5) của hỗn hợp dược liệu (Xuyên bối mẫu; Tỳ bà lá; Sa sâm; Phục linh; Trần bì; Cát cánh; Bán hạ; Ngũ vị tử; Qua lâu nhân; Viễn chí; Khổ hạnh nhân; Gừng; Mơ muối; Cam thảo) 537,5 mg"
+  },
+  {
+    "ten": "CIMEVERIN",
+    "hc": "Alverin citrat 60mg; Simethicon 300mg"
+  },
+  {
+    "ten": "Calcical (20 ống hộp)",
+    "hc": "Magnesi gluconat khan, Calcical glycerophosphat"
+  },
+  {
+    "ten": "Calcitriol (PHILBONE-A)",
+    "hc": "Calcitriol"
+  },
+  {
+    "ten": "Calcium Stella 500 mg",
+    "hc": "Calci (dưới dạng Calci lactat gluconat 2940mg và Calci carbonat 300mg)"
+  },
+  {
+    "ten": "Cammic tranexamic 500 (hộp 50 viên)",
+    "hc": "Acid tranexamic"
+  },
+  {
+    "ten": "Captopril 25 mg",
+    "hc": "Captopril"
+  },
+  {
+    "ten": "Cefimed 200mg",
+    "hc": "Cefixime"
+  },
+  {
+    "ten": "Cefimed 400mg",
+    "hc": "Cefixim"
+  },
+  {
+    "ten": "Cefixim 100mg",
+    "hc": "Mỗi gói 1,5g chứa: Cefixim (dưới dạng Cefixim trihydrat) 100mg"
+  },
+  {
+    "ten": "Cenex Cap 200mg",
+    "hc": "Celecoxib"
+  },
+  {
+    "ten": "Cetimed 10 mg",
+    "hc": "Cetirizine dihydrochloride"
+  },
+  {
+    "ten": "Ceutocid 200 Capsule",
+    "hc": "Celecoxib 200mg"
+  },
+  {
+    "ten": "Cidetuss capsules imexpharm",
+    "hc": "Guaifenesin 100mg, Cetirizin 5mg, Dextromethorphan 15mg"
+  },
+  {
+    "ten": "Cinepark-D",
+    "hc": "Ofloxacin"
+  },
+  {
+    "ten": "Cinnarizin Pharma",
+    "hc": "Cinnarizin"
+  },
+  {
+    "ten": "Clopiaspirin 75/75",
+    "hc": "Clopidogrel 75mg, Acetylsalicylic acid 75mg"
+  },
+  {
+    "ten": "Clopidogrel 75mg (Infartan)",
+    "hc": "Clopidogrel (dưới dạng Clopidogrel bisulphat)"
+  },
+  {
+    "ten": "Clorhexidine gluconate 0.12% sagopha",
+    "hc": "Clorhexidine gluconate 0.12% sagopha"
+  },
+  {
+    "ten": "Clorpheniramin maleat 4mg",
+    "hc": "Clorpheniramin maleat 4mg"
+  },
+  {
+    "ten": "Clotrimazol 500mg Viên đặt (Candid -V1)",
+    "hc": "Clotrimazol"
+  },
+  {
+    "ten": "Copedina",
+    "hc": "Clopidogrel"
+  },
+  {
+    "ten": "Coveram 5mg/10mg",
+    "hc": "Perindopril arginine 5mg và Amlodipine 10mg"
+  },
+  {
+    "ten": "Coversyl Plus 5mg/1.25mg",
+    "hc": "Perindopril arginin (5mg), Indapamid (1.25mg)"
+  },
+  {
+    "ten": "Cồn y tế 90 màu xanh 60ml Phương nam",
+    "hc": "-"
+  },
+  {
+    "ten": "D.E.P",
+    "hc": "Diethyl phthalate"
+  },
+  {
+    "ten": "Dactus",
+    "hc": "Ferrous gluconate"
+  },
+  {
+    "ten": "Daikyn",
+    "hc": "Estriol"
+  },
+  {
+    "ten": "Dalekine 200mg",
+    "hc": "Natri valproat"
+  },
+  {
+    "ten": "Dalekine 500mg",
+    "hc": "natri valproat"
+  },
+  {
+    "ten": "Dedarich 200",
+    "hc": "Trimebutine maleat"
+  },
+  {
+    "ten": "Dengu",
+    "hc": "Cao mềm dược liệu (Tâm sen 0,5g; Lá Vông nem 0,3g; Lạc tiên 0,4g; Táo nhân 0,4g; Mắc cỡ 0,6"
+  },
+  {
+    "ten": "Desloratadine 0.5mg/40ml",
+    "hc": "-"
+  },
+  {
+    "ten": "Devodil",
+    "hc": "Sulpirid"
+  },
+  {
+    "ten": "Diacerein 50-HV",
+    "hc": "Diacerein"
+  },
+  {
+    "ten": "Diltiazem (Tilhasan 60 )",
+    "hc": "Diltiazem hydroclorid"
+  },
+  {
+    "ten": "Diosmectit (Macfor)",
+    "hc": "Diosmectite"
+  },
+  {
+    "ten": "Dochicin 1mg",
+    "hc": "Colchicin"
+  },
+  {
+    "ten": "Domever 25mg (hộp 20 viên)",
+    "hc": "Spironolacton"
+  },
+  {
+    "ten": "Domitazol",
+    "hc": "Bột hạt Malva (Malva purpurea); Xanh methylen; Camphor monobromid"
+  },
+  {
+    "ten": "Domperidona GP",
+    "hc": "Domperidone (dưới dạng Domperidone maleate)"
+  },
+  {
+    "ten": "Doxycyclin 100mg domesco (hộp 100 viên)",
+    "hc": "Doxycyclin (dưới dạng doxycyclin hydroclorid)"
+  },
+  {
+    "ten": "Dung dịch khử khuẩn trang thiết bị y tế Dr Mylian 20ml (1 chai/hộp)",
+    "hc": "-"
+  },
+  {
+    "ten": "Dung dịch phụ khoa Povidine 10%",
+    "hc": "-"
+  },
+  {
+    "ten": "Dung dịch vệ sinh phụ nữ Phytogyno ( Chai 100ml/Hộp)",
+    "hc": "Alpha terpineol"
+  },
+  {
+    "ten": "Dung dịch xịt mũi xypenat nước biển sâu ưu trương",
+    "hc": "-"
+  },
+  {
+    "ten": "Duphalac",
+    "hc": "Lactulose"
+  },
+  {
+    "ten": "Dạ Hương Xanh (Chai 100ml/Hộp)",
+    "hc": "-"
+  },
+  {
+    "ten": "Dầu mù u max (chai 12ml)",
+    "hc": "-"
+  },
+  {
+    "ten": "Dầu nóng trường sơn 10ml",
+    "hc": "-"
+  },
+  {
+    "ten": "Dầu phật linh 1,5ml (lốc 12 chai)",
+    "hc": "-"
+  },
+  {
+    "ten": "Dầu phật linh trường sơn 5ml (lốc 12 chai)",
+    "hc": "-"
+  },
+  {
+    "ten": "Dầu thái đỏ siang pure oil 3ml (lốc 12 chai)",
+    "hc": "Camphor, Menthol, Pepermint Oil"
+  },
+  {
+    "ten": "Dầu thái đỏ siang pure oil 7ml (lốc 6 chai)",
+    "hc": "Camphor, Menthol, Pepermint Oil"
+  },
+  {
+    "ten": "Edoz DHG (24 gói x 2g)",
+    "hc": "Natri hydro carbonat (802mg), Acid Citric khan (620mg)"
+  },
+  {
+    "ten": "Efferalgan 300 viên đặt",
+    "hc": "Paracetamol"
+  },
+  {
+    "ten": "Efferalgan 80mg viên đặt",
+    "hc": "Efferalgan 80mg viên đặt"
+  },
+  {
+    "ten": "Enalapril STELLA 5 mg",
+    "hc": "Enalapril maleate"
+  },
+  {
+    "ten": "Enfanblue",
+    "hc": "vitamin D3; vitamin K2"
+  },
+  {
+    "ten": "Eraxicox",
+    "hc": "Etoricoxib"
+  },
+  {
+    "ten": "Esomeprazol 40mg (Somexwell-40mg)",
+    "hc": "Esomeprazol (dưới dạng Esomeprazol magnesi trihydrat) 40mg"
+  },
+  {
+    "ten": "Eugica",
+    "hc": "Eucalyptol; Menthol; Tinh dầu gừng ; Tinh dầu tần"
+  },
+  {
+    "ten": "Eugica Candy Mega (300 viên/Gói)",
+    "hc": "-"
+  },
+  {
+    "ten": "Eugica moth spray chai 10ml",
+    "hc": "-"
+  },
+  {
+    "ten": "Eyfem",
+    "hc": "Fluorometholon"
+  },
+  {
+    "ten": "Eytofen (Ketotifen)",
+    "hc": "Ketotifen"
+  },
+  {
+    "ten": "Fenaflam 25mg (20 viên/hộp)",
+    "hc": "Diclofenac kali"
+  },
+  {
+    "ten": "Fexofenadin 60-Us",
+    "hc": "Fexofenadin"
+  },
+  {
+    "ten": "Fitôrhi- F",
+    "hc": "Tinh dầu bạc hà; 1120mg; 700mg; 400mg; Bạch chỉ 280mg"
+  },
+  {
+    "ten": "Fluconazole STELLA 150 mg ( hộp 1 viên)",
+    "hc": "Fluconazol"
+  },
+  {
+    "ten": "Flunarizin 5mg (Virtizin 5)",
+    "hc": "Flunarizin"
+  },
+  {
+    "ten": "Fluomizin 10mg (hộp 6 viên)",
+    "hc": "Dequalinium chloride"
+  },
+  {
+    "ten": "Furosemide STELLA 40 mg",
+    "hc": "Furosemid"
+  },
+  {
+    "ten": "GIDOVER 16",
+    "hc": "Betahistin dihydroclorid"
+  },
+  {
+    "ten": "GOLDPROFEN",
+    "hc": "Ibuprofen"
+  },
+  {
+    "ten": "Gabena 10 Tablet",
+    "hc": "Olanzapin"
+  },
+  {
+    "ten": "Gatfatit (hộp 30 viên)",
+    "hc": "Atorvastatin"
+  },
+  {
+    "ten": "Gel nhiệt miệng kamismile (Ypharma)",
+    "hc": "-"
+  },
+  {
+    "ten": "Genbay (12 viên/hộp)",
+    "hc": "Clotrimazol"
+  },
+  {
+    "ten": "Gentrisone 20g Cr",
+    "hc": "Betamethason dipropionat 6.4 mg, Gentamicin (dưới dạng gentamicin sulfate) 10 mg, Clotrimazole 100mg."
+  },
+  {
+    "ten": "Gentusi",
+    "hc": "Chloramphenicol 100mg, Dexamethasone acetate 0,5mg, Metronidazole 225mg, Nystatin 75mg"
+  },
+  {
+    "ten": "Ginkgo biloba (PM REMEM)",
+    "hc": "Ginkgo biloba"
+  },
+  {
+    "ten": "Gliclada 30",
+    "hc": "Gliclazide"
+  },
+  {
+    "ten": "Gliclada 60 modified-release tablets",
+    "hc": "Gliclazide"
+  },
+  {
+    "ten": "Glucosamin, Chondroitin Sulphate- shark( REDUZE)",
+    "hc": "Glucosamin, Chondroitin Sulphate- shark, Cao đặc củ và rễ cây Gừng, cao đặc vỏ thân cây Hoàng Bá"
+  },
+  {
+    "ten": "Glumarix",
+    "hc": "Magnesi hydroxid; Nhôm hydroxid (dưới dạng Nhôm hydroxyd gel khô); Oxetacain"
+  },
+  {
+    "ten": "Griseofulvin 500mg",
+    "hc": "Griseofulvin"
+  },
+  {
+    "ten": "Găng tay y tế latex không bột vglove 5.8g size M (hộp 100 cái)",
+    "hc": "-"
+  },
+  {
+    "ten": "Gạc Vaselinc 201 (hộp 10 miếng)",
+    "hc": "-"
+  },
+  {
+    "ten": "Gạc lưới Urgotul 5cm x 5cm Urgo (10 miếng/Hộp)",
+    "hc": "-"
+  },
+  {
+    "ten": "Gạc lưới hydrocolloid (Urgotul 15cm x 20cm)",
+    "hc": "-"
+  },
+  {
+    "ten": "Gạc rơ lưỡi (lốc 10 hộp) Dopha",
+    "hc": "-"
+  },
+  {
+    "ten": "HEMORAL Tablet",
+    "hc": "Diosmin, Hesperidin"
+  },
+  {
+    "ten": "Haginat 125mg",
+    "hc": "Cefuroxim (dưới dạng Cefuroxim axetil)"
+  },
+  {
+    "ten": "Haginir 125mg",
+    "hc": "Cefdinir"
+  },
+  {
+    "ten": "Hapacol 150",
+    "hc": "Paracetamol"
+  },
+  {
+    "ten": "Hapacol 250 Flu",
+    "hc": "Paracetamol + Clorpheniramin maleat"
+  },
+  {
+    "ten": "Hapacol 250mg DHG ( hộp 24 gói)",
+    "hc": "Paracetamol"
+  },
+  {
+    "ten": "Hapacol 80",
+    "hc": "Paracetamol"
+  },
+  {
+    "ten": "Hapacol sủi",
+    "hc": "Paracetamol"
+  },
+  {
+    "ten": "Hasec 30",
+    "hc": "Racecadotril"
+  },
+  {
+    "ten": "Hidrasec 10mg Infants (16 gói/ hộp)",
+    "hc": "racecadotril"
+  },
+  {
+    "ten": "Hidrasec 30mg children (30 gói /hộp)",
+    "hc": "Racecadotril"
+  },
+  {
+    "ten": "Ho Astemix",
+    "hc": "Húng Chanh, Núc Nác, Cineol"
+  },
+  {
+    "ten": "Ho Astex siro opc (chai 90ml)",
+    "hc": "Húng chanh (Folium Plectranthi amboinici); Núc nác (Cortex Oroxyli); Cineol"
+  },
+  {
+    "ten": "Hornol",
+    "hc": "Cytidin monophosphat disodium 5mg; Uridin monophosphat disodium 3mg"
+  },
+  {
+    "ten": "Hoạt huyết dưỡng não DHG (hộp 100 viên)",
+    "hc": "-"
+  },
+  {
+    "ten": "Hueso Tab",
+    "hc": "Ursodeoxycholic acid"
+  },
+  {
+    "ten": "Hyperoil 5ml",
+    "hc": "Chiết xuất từ hạt Neem (Melia Azadirachta Seed Oil) và hoa Chi Ban (Hypericum Perforatum Flower Extract)"
+  },
+  {
+    "ten": "IODINE 30ml",
+    "hc": "Povidon iod (10%)"
+  },
+  {
+    "ten": "Imefed 250mg/31,25mg",
+    "hc": "Amoxicilin (dưới dạng Amoxicilin trihydrat powder); Acid clavulanic (dưới dạng Kali clavulanat - syloid (1:1)"
+  },
+  {
+    "ten": "Incepavit 400 Capsule",
+    "hc": "Vitamin E acetate (all-rac-alpha-tocopheryl acetate)"
+  },
+  {
+    "ten": "Isoday 20",
+    "hc": "Isosorbide mononitrate 20 mg"
+  },
+  {
+    "ten": "Itranstad 100mg Stella",
+    "hc": "Itraconazol"
+  },
+  {
+    "ten": "Kefcin 125",
+    "hc": "Cefaclor (dưới dạng Cefaclor monohydrat)"
+  },
+  {
+    "ten": "Kefcin 250 (hộp 30 viên)",
+    "hc": "Cefaclor 250mg"
+  },
+  {
+    "ten": "Kem yoosun rau má đại bắc (tuýp 25gr)",
+    "hc": "-"
+  },
+  {
+    "ten": "Kernadol 650mg",
+    "hc": "Paracetamol (acetaminophen)"
+  },
+  {
+    "ten": "Ketoconazole 2% (Skinoral Cream)",
+    "hc": "Ketoconazole"
+  },
+  {
+    "ten": "Ketosteril",
+    "hc": "L-Leucin 75mg, Calcium 50mg, L-Threonin 53mg, L-Tryptophan 23mg, (RS)-3-methyl-2-oxovaleric acid 67mg, 4-methyl-2-oxovaleric acid 101mg, 2-oxo-3-phenylpropionic acid 68mg, 3-methyl-2-oxobutyric acid 86mg, (RS)-2-hydroxy-4-methylthio-butyric acid 59mg, L-Histidine 38mg, L-Tyrosine 30mg, Nitrogen 36mg"
+  },
+  {
+    "ten": "Ketovin",
+    "hc": "α-hydroxyanalogue to methionin, α-ketoanalogue to valin, α-ketoanalogue to phenylalanin, Nitrogen, L-Tyrosine, L-Histidine, L-Tryptophan, L-Threonin, Lysin,α-Ketoanalogue to isoleucin, muối calci, α-ketoanalogue to leucin, muối calci"
+  },
+  {
+    "ten": "Khẩu trang 3 lớp 5D màu trắng trẻ em (hộp 30 cái)",
+    "hc": "-"
+  },
+  {
+    "ten": "Khẩu trang 4 lớp Omega màu trắng (hộp 50 cái)",
+    "hc": "-"
+  },
+  {
+    "ten": "Khẩu trang 4 lớp Omega màu xanh (hộp 50 cái)",
+    "hc": "-"
+  },
+  {
+    "ten": "Khẩu trang 4 lớp Omega màu xám (hộp 50 cái)",
+    "hc": "-"
+  },
+  {
+    "ten": "Kim Tiền Thảo (100 viên/chai)",
+    "hc": "Cao đặc Kim tiền thảo (tương ứng với Kim tiền thảo 2,4g)"
+  },
+  {
+    "ten": "Kẽm (A.T Zinc)",
+    "hc": "Kẽm (dưới dạng Kẽm gluconat)"
+  },
+  {
+    "ten": "Kẽm (Paluzine)",
+    "hc": "Kẽm (dưới dạng Kẽm gluconat)"
+  },
+  {
+    "ten": "Lactacyd Gentle Care 250ml",
+    "hc": "-"
+  },
+  {
+    "ten": "Levothyrox 50mcg",
+    "hc": "levothyroxine natri"
+  },
+  {
+    "ten": "Lipanthyl 200mg (hộp 30 viên)",
+    "hc": "Fenofibrat"
+  },
+  {
+    "ten": "Losartan kali 25(BONSARTINE 25 TABLET)",
+    "hc": "Losartan kali"
+  },
+  {
+    "ten": "Losartan potassium 50 (ROTALZON)",
+    "hc": "Losartan Potassium"
+  },
+  {
+    "ten": "Lưỡi dao mổ số 11",
+    "hc": "-"
+  },
+  {
+    "ten": "Mactapro",
+    "hc": "Empagliflozin 10mg, Linagliptin 5mg"
+  },
+  {
+    "ten": "Magnesium-B6",
+    "hc": "Magnesi lactat dihydrat ; Vitamin B6 (Pyridoxin hydroclorid)"
+  },
+  {
+    "ten": "Marvelon",
+    "hc": "Desogestrel , Ethinylestradiol"
+  },
+  {
+    "ten": "Mecobalamin 1500mcg (Seacaminfort)",
+    "hc": "Mecobalamin"
+  },
+  {
+    "ten": "MedSkin Clovir 800",
+    "hc": "Acyclovir 800mg"
+  },
+  {
+    "ten": "MedSkin FUSI 2%",
+    "hc": "Acid fusidic 2%"
+  },
+  {
+    "ten": "Medoclav 375mg",
+    "hc": "Amoxicillin (250mg) , Acid Clavulanic (125mg)"
+  },
+  {
+    "ten": "Medskin clovir 400",
+    "hc": "Acyclovir"
+  },
+  {
+    "ten": "Mepoly Merap 10ml",
+    "hc": "Dexamethasone, Neomycin, Polymyxin B"
+  },
+  {
+    "ten": "Mesalamin 500mg (Vinsalamin)",
+    "hc": "Mesalamin"
+  },
+  {
+    "ten": "Meseca 50mcg/liều, 60 liều",
+    "hc": "Fluticasone propionate"
+  },
+  {
+    "ten": "Metformin Denk 1000",
+    "hc": "Metformin (dưới dạng Metformin HCl) 1000mg"
+  },
+  {
+    "ten": "Metformin Stella 500 mg (hộp 60 viên)",
+    "hc": "Metformin hydroclorid"
+  },
+  {
+    "ten": "Methyldopa 250mg (hộp 100 viên)",
+    "hc": "Methyldopa"
+  },
+  {
+    "ten": "Methylprednisolon-API 16",
+    "hc": "Methylprednisolon"
+  },
+  {
+    "ten": "Metozamin 850",
+    "hc": "Metformin hydroclorid"
+  },
+  {
+    "ten": "Metronidazol 250mg",
+    "hc": "Metronidazol 250mg"
+  },
+  {
+    "ten": "Metronidazol 250mg bidiphar (hộp 100 viên)",
+    "hc": "Metronidazol 250mg"
+  },
+  {
+    "ten": "Mifestad 10mg (hộp 1 viên)",
+    "hc": "Mifepristone"
+  },
+  {
+    "ten": "Mifestad 200mg (hộp 1 viên)",
+    "hc": "Mifepristone"
+  },
+  {
+    "ten": "Misoprostol STELLA 200 mcg (30 viên/Hộp)",
+    "hc": "Misoprostol (dưới dạng misoprostol HPMC 1% dispersion)"
+  },
+  {
+    "ten": "Miếng dán hạ sốt Sakura (hộp 6 miếng)",
+    "hc": "-"
+  },
+  {
+    "ten": "Mogaton",
+    "hc": "Itopride HCl"
+  },
+  {
+    "ten": "Monitazone Nasal Spray",
+    "hc": "Mometason furoat"
+  },
+  {
+    "ten": "Motarute Eye Drops",
+    "hc": "Moxifloxacin HCL 5.045mg/ml"
+  },
+  {
+    "ten": "Motilium Suspension 30ml ( hộp 1 lọ )",
+    "hc": "Domperidon"
+  },
+  {
+    "ten": "Moxilen 500mg",
+    "hc": "Amoxicillin"
+  },
+  {
+    "ten": "Multivitamin (Attom)",
+    "hc": "Vitamin A + vitamin D3 + vitamin B1 + Vitamin B2 + vitamin B6 + Vitamin B3 + Vitamin B12 + Calci + Magnesi + sắt + Lysin HCL"
+  },
+  {
+    "ten": "Multivitamin Đại uy (100 viên/hộp)",
+    "hc": "-"
+  },
+  {
+    "ten": "Muscat tab",
+    "hc": "Mosapride Citrate (dưới dạng Mosapride Citrate dihydrate)"
+  },
+  {
+    "ten": "NEBICOR 5mg Tablets",
+    "hc": "Nebivolol (dưới dạng Nebivolol hydrochlorid)"
+  },
+  {
+    "ten": "NEUROPENTIN",
+    "hc": "Gabapentin"
+  },
+  {
+    "ten": "NEVOL 2.5 Tablets",
+    "hc": "Nebivolol"
+  },
+  {
+    "ten": "NORMELIP 20",
+    "hc": "Atorvastatin (dưới dạng Atorvastatin calci)"
+  },
+  {
+    "ten": "NOVADUC-40",
+    "hc": "Telmisartan"
+  },
+  {
+    "ten": "Nady-Dapag 10",
+    "hc": "Dapagliflozin (dưới dạng Dapagliflozin propanediol monohydrat) 10 mg"
+  },
+  {
+    "ten": "Nagolix 25mg (30 viên/hộp)",
+    "hc": "Empagliflozin 25mg"
+  },
+  {
+    "ten": "Naminginko 80",
+    "hc": "Cao khô lá bạch quả (Extractum folium ginkgo siccus)"
+  },
+  {
+    "ten": "Natri clorid 0,9% nhỏ mắt mũi (lốc 10 chai)",
+    "hc": "Natri clorid"
+  },
+  {
+    "ten": "Nautamine (80 viên/hộp)",
+    "hc": "Diacefyllin diphenhydramin"
+  },
+  {
+    "ten": "Naxxid",
+    "hc": "Natri alginate + axit alginic + natri bicarbonate + calci carbonate + Tá dược: Mannitol, sucralose, silicon dioxide, vegetable magnesium stearate, glycerol behenate, mùi vị: chiết xuất gừng, tinh dầu gừng, chanh, bạc hà."
+  },
+  {
+    "ten": "Neutasol",
+    "hc": "Mỗi 30g chứa Clobetasol propionat 15mg"
+  },
+  {
+    "ten": "Nexium 10mg",
+    "hc": "Esomeprazol"
+  },
+  {
+    "ten": "Nhỏ mắt syseye 10ml Merap (hộp 1 chai)",
+    "hc": "Hydroxypropyl methylcellulose"
+  },
+  {
+    "ten": "Nirdicin 500mg",
+    "hc": "Levofloxacin"
+  },
+  {
+    "ten": "Nystatin 500.000 UI vidipha (hộp 16 viên)",
+    "hc": "Nystatin"
+  },
+  {
+    "ten": "Nước muối Vĩnh Phúc smiles 500ml",
+    "hc": "-"
+  },
+  {
+    "ten": "Nước oxy già 3% 60ml Phương Nam",
+    "hc": "-"
+  },
+  {
+    "ten": "Nước súc miệng listerine cool mint 250ml",
+    "hc": "-"
+  },
+  {
+    "ten": "Nẹp cẳng tay dài số 8 phải (gói 1 cái)",
+    "hc": "-"
+  },
+  {
+    "ten": "Nẹp cổ cứng (gói 1 cái)",
+    "hc": "-"
+  },
+  {
+    "ten": "Nẹp đùi số 7 (gói 1 cái)",
+    "hc": "-"
+  },
+  {
+    "ten": "Nẹp đùi số 8 (gói 1 cái)",
+    "hc": "-"
+  },
+  {
+    "ten": "Ofemil 40mg/1.1g",
+    "hc": "Omeprazol 40mg, Natri bicarbonat 1100mg"
+  },
+  {
+    "ten": "Ofleye",
+    "hc": "Ofloxacin 0.3%(w/w)"
+  },
+  {
+    "ten": "OpeVerin 135mg",
+    "hc": "Mebeverin HCI 135mg"
+  },
+  {
+    "ten": "Oracortia cream 1g",
+    "hc": "Triamcinolon acetonid"
+  },
+  {
+    "ten": "Oralox-P Api",
+    "hc": "Aluminum hydroxide (dưới dạng dried aluminum hydroxide gel); Magnesium hydroxide ; Simethicone"
+  },
+  {
+    "ten": "Oresol new Bidiphar (hộp 24 gói)",
+    "hc": "Glucose khan (dưới dạng glucose monohydrate); Kali Clorid; Natri Clorid; Trinatri citrat khan (dưới dạng Trinatri citrat .2H2O)"
+  },
+  {
+    "ten": "Osla eye drops 15ml (hộp 1 lọ)",
+    "hc": "Natri clorid"
+  },
+  {
+    "ten": "Panocer 40mg",
+    "hc": "Pantoprazol"
+  },
+  {
+    "ten": "Panthenol nano bạc 130g (hộp 1 chai)",
+    "hc": "dexpathenol (4.63g), dung dịch Nano bạc (1.0g), Acid Myristic, Hexadecanol, Na2 EDTA, Isopropyl Myristate, Triethenolamine, Polyethylene glycol, Butan, Propane, Acid citric, Frangrance, Water"
+  },
+  {
+    "ten": "Panto-denk 20",
+    "hc": "Pantoprazol (dưới dạng Pantoprazol natri sesquihydrat)"
+  },
+  {
+    "ten": "Paracetamol 500 (Para - Api)",
+    "hc": "Paracetamol"
+  },
+  {
+    "ten": "Paracold 500",
+    "hc": "Paracetamol"
+  },
+  {
+    "ten": "Parepemic 2mg (hộp 150 viên)",
+    "hc": "Loperamid hydroclorid"
+  },
+  {
+    "ten": "Perfeclly 400mg",
+    "hc": "Progesterone"
+  },
+  {
+    "ten": "Piracetam 800 (Capriles)",
+    "hc": "Piracetam"
+  },
+  {
+    "ten": "Pirilevo",
+    "hc": "Levosulpiride"
+  },
+  {
+    "ten": "Pradaxa 110mg Caps (30 viên/ hộp)",
+    "hc": "Dabigatran etexilate (dưới dạng Dabigatran etexilate mesilate)"
+  },
+  {
+    "ten": "Pradaxa 150mg (hộp 30 viên)",
+    "hc": "Dabigatran etexilate (dưới dạng Dabigatran etexilate mesilate)"
+  },
+  {
+    "ten": "Predion 5 DT",
+    "hc": "Prednisolon"
+  },
+  {
+    "ten": "Pregabakern 100mg",
+    "hc": "Pregabalin"
+  },
+  {
+    "ten": "Prenewel Tablety 8mg/2,5mg",
+    "hc": "Perindopril 8mg, Indapamid 2.5mg"
+  },
+  {
+    "ten": "Pretension Plus 80/12.5mg",
+    "hc": "Telmisartan 80mg; Hydrochlorothiazide 12,5mg"
+  },
+  {
+    "ten": "Propranolol 40mg ( hộp 100 viên)",
+    "hc": "Propranolol.HCl"
+  },
+  {
+    "ten": "Putiyol",
+    "hc": "Ivermectin"
+  },
+  {
+    "ten": "Que Chip Chip (hộp 12 cái)",
+    "hc": "-"
+  },
+  {
+    "ten": "RODILAR",
+    "hc": "Dextromethorphan HBr 15MG"
+  },
+  {
+    "ten": "Rebamipide 100mg (NADEBO Tab)",
+    "hc": "Rebamipide"
+  },
+  {
+    "ten": "Rectiofar 3ml (40 túi/hộp)",
+    "hc": "Glycerin"
+  },
+  {
+    "ten": "Regulon (hộp 21 viên)",
+    "hc": "Ethinylestradiol, Desogestrel"
+  },
+  {
+    "ten": "Risperidon 2 (50 viên/Hộp)",
+    "hc": "Risperidon"
+  },
+  {
+    "ten": "Rofast 10",
+    "hc": "Rosuvastatin 10mg"
+  },
+  {
+    "ten": "Ronaline 10mg",
+    "hc": "Empagliflozin 10mg"
+  },
+  {
+    "ten": "Rosuvastatin 20mg (Rosucor 20)",
+    "hc": "Rosuvastatin 20mg"
+  },
+  {
+    "ten": "Roswera",
+    "hc": "Rosuvastatin"
+  },
+  {
+    "ten": "Rowatinex",
+    "hc": "Pinene (alpha+beta); Camphene; Cineol BPC (1973); Fenchone; Borneol; Anethol"
+  },
+  {
+    "ten": "SMODIR-DT",
+    "hc": "Cefdinir"
+  },
+  {
+    "ten": "SUPBOTIC",
+    "hc": "Trimebutin maleat"
+  },
+  {
+    "ten": "Salonpas  (hộp 5 hộp nhỏ 40 miếng)",
+    "hc": "Methyl salicylate; dl-Camphor ; l-Menthol; Tocopherol acetate 2 %"
+  },
+  {
+    "ten": "Salonpas gel 30gr",
+    "hc": "l-Menthol (w/w); Methyl salicylate (w/w)"
+  },
+  {
+    "ten": "Silymarin 140mg  (LIVOSIL)",
+    "hc": "Silymarin"
+  },
+  {
+    "ten": "Simenic",
+    "hc": "Alverine citrate + Simethicone"
+  },
+  {
+    "ten": "Simethicon 40mg/ml (Simecol)",
+    "hc": "Mỗi ml chứa: Simethicon 40mg"
+  },
+  {
+    "ten": "Siro Multroforkid 100ml ( hộp 1 chai )",
+    "hc": "L-Lysin hydroclorid: 150 mgVitamin PP: 10 mgD-Calci pantothenat: 5 mgVitamin B6: 3 mgVitamin B2: 1,67 mgVitamin B1: 1,5 mg"
+  },
+  {
+    "ten": "Siro Multroforkid 7.5ml ( hộp 20 ống )",
+    "hc": "L-Lysin hydroclorid: 150 mgVitamin PP: 10 mgD-Calci pantothenat: 5 mgVitamin B6: 3 mgVitamin B2: 1,67 mgVitamin B1: 1,5 mg"
+  },
+  {
+    "ten": "Soffell kem xua muỗi hương hoa (chai 60ml)",
+    "hc": "-"
+  },
+  {
+    "ten": "Sorbitol 5g phapharco (hộp 20 gói x 5g)",
+    "hc": "Sorbitol"
+  },
+  {
+    "ten": "Sovasol",
+    "hc": "Clotrimazol"
+  },
+  {
+    "ten": "Spinolac 50mg Hasan",
+    "hc": "Spironolacton"
+  },
+  {
+    "ten": "Strepsils Cool (2 viên/gói/Hộp)",
+    "hc": "2,4 – Dichlorobenzyl Alcohol 1,2mg; Amylmetacresol 0,6mg"
+  },
+  {
+    "ten": "Stresam 50mg (hộp 60 viên)",
+    "hc": "Etifoxin hydroclorid"
+  },
+  {
+    "ten": "Sucrapi 1g/5ml Apimed",
+    "hc": "Sucralfat"
+  },
+  {
+    "ten": "Sulfadiazin bạc (Sulfadiazin bạc 1%20g)",
+    "hc": "Sulfadiazin bạc"
+  },
+  {
+    "ten": "Tamsulodin 0.4mg stella (hộp 30 viên)",
+    "hc": "Tamsulosin hydrochloride"
+  },
+  {
+    "ten": "Taxedac",
+    "hc": "Moxifloxacin 25mg, Dexamethasone 5mg"
+  },
+  {
+    "ten": "Tenofovir (ALFAVIR Tablet)",
+    "hc": "Tenofovir alafenamid (dưới dạng Tenofovir alafenamid fumarat 25mg)"
+  },
+  {
+    "ten": "Tenofovir (Tenogis 300)",
+    "hc": "Tenofovir disoproxil fumarat"
+  },
+  {
+    "ten": "Teperinep 25mg film-coated tablets",
+    "hc": "Amitriptylin (dưới dạng Amitriptylin hydrochlorid)"
+  },
+  {
+    "ten": "Terbinafine Stella Cream 1% (10g)",
+    "hc": "terbinafine hydrochloride"
+  },
+  {
+    "ten": "Thyrozol 10mg",
+    "hc": "Thiamazole"
+  },
+  {
+    "ten": "Thyrozol 5mg",
+    "hc": "Thiamazole 5mg"
+  },
+  {
+    "ten": "Ticarlox 10G (hộp 1 tuýp)",
+    "hc": "-"
+  },
+  {
+    "ten": "Tinidazol 500mg (hộp 100 viên)",
+    "hc": "Tinidazol"
+  },
+  {
+    "ten": "Tobadexa",
+    "hc": "Tobramycin + Dexamethasone"
+  },
+  {
+    "ten": "Trifilip (hộp 30 viên)",
+    "hc": "Fenofibrate (micronised) 134mg"
+  },
+  {
+    "ten": "Trosicam 7.5mg",
+    "hc": "Meloxicam"
+  },
+  {
+    "ten": "Tăm bông nhỏ (bao/5-12 gói)",
+    "hc": "-"
+  },
+  {
+    "ten": "Tăng cường đề kháng bipp C vị cam (hộp 35 gói) DHG",
+    "hc": "-"
+  },
+  {
+    "ten": "Uspeffix ( hộp 40 viên)",
+    "hc": "-"
+  },
+  {
+    "ten": "V.Rohto vitamin",
+    "hc": "Mỗi lọ 13ml chứa: Chlorpheniramine Maleate 3,9mg; d-α-Tocopherol Acetate 6,5mg; Potassium L-Aspartate 130mg; Pyridoxine Hydrochloride 13mg; Sodium Chondroitin Sulfate 13mg"
+  },
+  {
+    "ten": "V.rohto cool 12ml ( hộp 1 lọ)",
+    "hc": "Hộp 1 lọ 12ml chứa: Allantoin 24mg; Chlorpheniramine Maleate 3,60mg; Potassium L-Aspartate 120mg; Pyridoxine Hydrochloride 12mg; Tetrahydrozoline Hydrochloride 6mg"
+  },
+  {
+    "ten": "Valsartan (Disys)",
+    "hc": "Valsartan"
+  },
+  {
+    "ten": "Vaseline pure 10g OPC (Tuýp 10g/Hộp)",
+    "hc": "-"
+  },
+  {
+    "ten": "Vastarel MR 35mg",
+    "hc": "Trimetazidine"
+  },
+  {
+    "ten": "Venrutine",
+    "hc": "Rutin 500mg; Acid ascorbic 100mg"
+  },
+  {
+    "ten": "Vinsalamin 500",
+    "hc": "Mesalamin"
+  },
+  {
+    "ten": "Vinsalmol 5",
+    "hc": "Salbutamol (dưới dạng salbutamol sulfat)"
+  },
+  {
+    "ten": "Vitamin A 5000 IU (hộp 200 viên)",
+    "hc": "Retinol acetate"
+  },
+  {
+    "ten": "Vitamin AD gold (hộp 100 viên)  Phúc Vinh",
+    "hc": "-"
+  },
+  {
+    "ten": "Vitamin C MKP 500mg",
+    "hc": "Ascorbic acid"
+  },
+  {
+    "ten": "Viên nén bao phim YSP Gincare",
+    "hc": "Cao chiết Bạch quả (Ginkgo Biloba)"
+  },
+  {
+    "ten": "Viên tránh thai Newchoice",
+    "hc": "Levonorgestrel + Ethinylestradiol"
+  },
+  {
+    "ten": "Viên đặt âm đạo Perfeclly",
+    "hc": "Progesteron 400mg"
+  },
+  {
+    "ten": "Viên đặt âm đạo gynoflor medinova (hộp 6 viên)",
+    "hc": "Estriol; Lactobacillus acidophilus"
+  },
+  {
+    "ten": "Voltaren suppo 100mg (hộp 5 viên)",
+    "hc": "Diclofenac natri"
+  },
+  {
+    "ten": "YSPBiotase",
+    "hc": "Biodiastase, Lipase, Newlase"
+  },
+  {
+    "ten": "Zaromax 100mg (hộp 24 gói)",
+    "hc": "Gói 0,75g thuốc chứa: Azithromycin (dưới dạng Azithromycin dihydrat)"
+  },
+  {
+    "ten": "Zaromax500mg DHG (hộp 30 viên)",
+    "hc": "Azithromycin (Dưới dạng Azithromycin dihydrat)"
+  },
+  {
+    "ten": "Zidocin DHG",
+    "hc": "Spiramycin , Metronidazol"
+  },
+  {
+    "ten": "Đai cột sống số 7",
+    "hc": "-"
+  },
+  {
+    "ten": "Đai cột sống số 8",
+    "hc": "-"
+  },
+  {
+    "ten": "Đai cột sống số 9",
+    "hc": "-"
+  },
+  {
+    "ten": "Đai desault phải số 8",
+    "hc": "-"
+  },
+  {
+    "ten": "Đai desault phải số 9",
+    "hc": "-"
+  },
+  {
+    "ten": "Đai desault trái 9",
+    "hc": "-"
+  },
+  {
+    "ten": "Đai desault trái số 8",
+    "hc": "-"
+  },
+  {
+    "ten": "Đai xương đòn số 6",
+    "hc": "-"
+  },
+  {
+    "ten": "Đai xương đòn số 7",
+    "hc": "-"
+  },
+  {
+    "ten": "Đai xương đòn số 8",
+    "hc": "-"
+  },
+  {
+    "ten": "Đai xương đòn số 9",
+    "hc": "-"
+  },
+  {
+    "ten": "Đường ăn kiêng Tropycanada slym (Hộp 50 gói)",
+    "hc": "-"
+  },
+  {
+    "ten": "Ampicillin 1g",
+    "hc": "Ampicilin (muối natri)"
+  },
+  {
+    "ten": "Bacsulfo 1g/1g",
+    "hc": "Cefoperazon + sulbactam"
+  },
+  {
+    "ten": "Laevolac",
+    "hc": "Lactulose"
   }
 ]

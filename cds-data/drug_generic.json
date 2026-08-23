@@ -4118,5 +4118,1261 @@
     "pharmacologic_class": "unknown",
     "therapeutic_class": "unknown",
     "is_active": true
+  },
+  {
+    "generic_name": "vitamin b1    ; vitamin b6    ; vitamin b12   200µg",
+    "generic_name_en": "vitamin b1    ; vitamin b6    ; vitamin b12   200µg",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "acid ascorbic",
+    "generic_name_en": "acid ascorbic",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "levocetirizin dihydrochlorid",
+    "generic_name_en": "levocetirizin dihydrochlorid",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "acetylcystein",
+    "generic_name_en": "acetylcystein",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "acyclovir",
+    "generic_name_en": "acyclovir",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "adapalene",
+    "generic_name_en": "adapalene",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "n-acetyl-dl-leucin",
+    "generic_name_en": "n-acetyl-dl-leucin",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "paracetamol ; caffeine",
+    "generic_name_en": "paracetamol ; caffeine",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "alphachymotrypsin",
+    "generic_name_en": "alphachymotrypsin",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "alphachymotrypsine",
+    "generic_name_en": "alphachymotrypsine",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "alfuzosin hydroclorid",
+    "generic_name_en": "alfuzosin hydroclorid",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "bismuth subsalicylat",
+    "generic_name_en": "bismuth subsalicylat",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "albendazo",
+    "generic_name_en": "albendazo",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "eperison hydroclorid",
+    "generic_name_en": "eperison hydroclorid",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "mupirocin  w",
+    "generic_name_en": "mupirocin  w",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "amoxicilin  ; potassium clavulanate",
+    "generic_name_en": "amoxicilin  ; potassium clavulanate",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "l-ornithin l-aspartat",
+    "generic_name_en": "l-ornithin l-aspartat",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "dutasteride",
+    "generic_name_en": "dutasteride",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "bột bìm bìm  ; cao đặc actisô    ; cao đặc rau đắng đất",
+    "generic_name_en": "bột bìm bìm  ; cao đặc actisô    ; cao đặc rau đắng đất",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "trimetazidin dihydroclorid",
+    "generic_name_en": "trimetazidin dihydroclorid",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "bambuterol hydroclorid",
+    "generic_name_en": "bambuterol hydroclorid",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "ethinylestradiol; chlormadinon acetat",
+    "generic_name_en": "ethinylestradiol; chlormadinon acetat",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "betamethason dipropionat",
+    "generic_name_en": "betamethason dipropionat",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "bisoprolol fumarat",
+    "generic_name_en": "bisoprolol fumarat",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "fexofenadin hydroclorid",
+    "generic_name_en": "fexofenadin hydroclorid",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "cao lỏng   của hỗn hợp dược liệu",
+    "generic_name_en": "cao lỏng   của hỗn hợp dược liệu",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "alverin citrat  ; simethicon",
+    "generic_name_en": "alverin citrat  ; simethicon",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "magnesi gluconat khan / calcical glycerophosphat",
+    "generic_name_en": "magnesi gluconat khan / calcical glycerophosphat",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "calci",
+    "generic_name_en": "calci",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "acid tranexamic",
+    "generic_name_en": "acid tranexamic",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "cefixime",
+    "generic_name_en": "cefixime",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "mỗi gói  chứa: cefixim",
+    "generic_name_en": "mỗi gói  chứa: cefixim",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "cetirizine dihydrochloride",
+    "generic_name_en": "cetirizine dihydrochloride",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "guaifenesin / cetirizin / dextromethorphan",
+    "generic_name_en": "guaifenesin / cetirizin / dextromethorphan",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "clopidogrel / acetylsalicylic acid",
+    "generic_name_en": "clopidogrel / acetylsalicylic acid",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "clorhexidine gluconate  sagopha",
+    "generic_name_en": "clorhexidine gluconate  sagopha",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "clorpheniramin maleat",
+    "generic_name_en": "clorpheniramin maleat",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "perindopril arginine  và amlodipine",
+    "generic_name_en": "perindopril arginine  và amlodipine",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "perindopril arginin / indapamid",
+    "generic_name_en": "perindopril arginin / indapamid",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "diethyl phthalate",
+    "generic_name_en": "diethyl phthalate",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "ferrous gluconate",
+    "generic_name_en": "ferrous gluconate",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "estriol",
+    "generic_name_en": "estriol",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "natri valproat",
+    "generic_name_en": "natri valproat",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "trimebutine maleat",
+    "generic_name_en": "trimebutine maleat",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "cao mềm dược liệu (tâm sen  ; lá vông nem  ; lạc tiên  ; táo nhân  ; mắc cỡ 0",
+    "generic_name_en": "cao mềm dược liệu (tâm sen  ; lá vông nem  ; lạc tiên  ; táo nhân  ; mắc cỡ 0",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "diltiazem hydroclorid",
+    "generic_name_en": "diltiazem hydroclorid",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "diosmectite",
+    "generic_name_en": "diosmectite",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "bột hạt malva  ; xanh methylen; camphor monobromid",
+    "generic_name_en": "bột hạt malva  ; xanh methylen; camphor monobromid",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "domperidone",
+    "generic_name_en": "domperidone",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "alpha terpineol",
+    "generic_name_en": "alpha terpineol",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "camphor / menthol / pepermint oil",
+    "generic_name_en": "camphor / menthol / pepermint oil",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "natri hydro carbonat / acid citric khan",
+    "generic_name_en": "natri hydro carbonat / acid citric khan",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "efferalgan  viên đặt",
+    "generic_name_en": "efferalgan  viên đặt",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "enalapril maleate",
+    "generic_name_en": "enalapril maleate",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "vitamin d3; vitamin k2",
+    "generic_name_en": "vitamin d3; vitamin k2",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "eucalyptol; menthol; tinh dầu gừng ; tinh dầu tần",
+    "generic_name_en": "eucalyptol; menthol; tinh dầu gừng ; tinh dầu tần",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "ketotifen",
+    "generic_name_en": "ketotifen",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "diclofenac kali",
+    "generic_name_en": "diclofenac kali",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "tinh dầu bạc hà;  ;  ;  ; bạch chỉ",
+    "generic_name_en": "tinh dầu bạc hà;  ;  ;  ; bạch chỉ",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "flunarizin",
+    "generic_name_en": "flunarizin",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "dequalinium chloride",
+    "generic_name_en": "dequalinium chloride",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "betahistin dihydroclorid",
+    "generic_name_en": "betahistin dihydroclorid",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "betamethason dipropionat / gentamicin / clotrimazole  ",
+    "generic_name_en": "betamethason dipropionat / gentamicin / clotrimazole  ",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "chloramphenicol / dexamethasone acetate / metronidazole / nystatin",
+    "generic_name_en": "chloramphenicol / dexamethasone acetate / metronidazole / nystatin",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "ginkgo biloba",
+    "generic_name_en": "ginkgo biloba",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "gliclazide",
+    "generic_name_en": "gliclazide",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "glucosamin / chondroitin sulphate- shark / cao đặc củ và rễ cây gừng / cao đặc vỏ thân cây hoàng bá",
+    "generic_name_en": "glucosamin / chondroitin sulphate- shark / cao đặc củ và rễ cây gừng / cao đặc vỏ thân cây hoàng bá",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "magnesi hydroxid; nhôm hydroxid  ; oxetacain",
+    "generic_name_en": "magnesi hydroxid; nhôm hydroxid  ; oxetacain",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "griseofulvin",
+    "generic_name_en": "griseofulvin",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "paracetamol / clorpheniramin maleat",
+    "generic_name_en": "paracetamol / clorpheniramin maleat",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "húng chanh  ; núc nác  ; cineol",
+    "generic_name_en": "húng chanh  ; núc nác  ; cineol",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "cytidin monophosphat disodium  ; uridin monophosphat disodium",
+    "generic_name_en": "cytidin monophosphat disodium  ; uridin monophosphat disodium",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "ursodeoxycholic acid",
+    "generic_name_en": "ursodeoxycholic acid",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "chiết xuất từ hạt neem   và hoa chi ban",
+    "generic_name_en": "chiết xuất từ hạt neem   và hoa chi ban",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "povidon iod",
+    "generic_name_en": "povidon iod",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "amoxicilin  ; acid clavulanic",
+    "generic_name_en": "amoxicilin  ; acid clavulanic",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "vitamin e acetate",
+    "generic_name_en": "vitamin e acetate",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "isosorbide mononitrate",
+    "generic_name_en": "isosorbide mononitrate",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "ketoconazole",
+    "generic_name_en": "ketoconazole",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "l-leucin / calcium / l-threonin / l-tryptophan / 3-methyl-2-oxovaleric acid / 4-methyl-2-oxovaleric acid / 2-oxo-3-phenylpropionic acid / 3-methyl-2-oxobutyric acid / 2-hydroxy-4-methylthio-butyric acid / l-histidine / l-tyrosine / nitrogen",
+    "generic_name_en": "l-leucin / calcium / l-threonin / l-tryptophan / 3-methyl-2-oxovaleric acid / 4-methyl-2-oxovaleric acid / 2-oxo-3-phenylpropionic acid / 3-methyl-2-oxobutyric acid / 2-hydroxy-4-methylthio-butyric acid / l-histidine / l-tyrosine / nitrogen",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "α-hydroxyanalogue to methionin / α-ketoanalogue to valin / α-ketoanalogue to phenylalanin / nitrogen / l-tyrosine / l-histidine / l-tryptophan / l-threonin / lysin / α-ketoanalogue to isoleucin / muối calci / α-ketoanalogue to leucin / muối calci",
+    "generic_name_en": "α-hydroxyanalogue to methionin / α-ketoanalogue to valin / α-ketoanalogue to phenylalanin / nitrogen / l-tyrosine / l-histidine / l-tryptophan / l-threonin / lysin / α-ketoanalogue to isoleucin / muối calci / α-ketoanalogue to leucin / muối calci",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "cao đặc kim tiền thảo",
+    "generic_name_en": "cao đặc kim tiền thảo",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "kẽm",
+    "generic_name_en": "kẽm",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "levothyroxine natri",
+    "generic_name_en": "levothyroxine natri",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "losartan kali",
+    "generic_name_en": "losartan kali",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "losartan potassium",
+    "generic_name_en": "losartan potassium",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "empagliflozin / linagliptin",
+    "generic_name_en": "empagliflozin / linagliptin",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "magnesi lactat dihydrat ; vitamin b6",
+    "generic_name_en": "magnesi lactat dihydrat ; vitamin b6",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "desogestrel / ethinylestradiol",
+    "generic_name_en": "desogestrel / ethinylestradiol",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "acid fusidic",
+    "generic_name_en": "acid fusidic",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "amoxicillin / acid clavulanic",
+    "generic_name_en": "amoxicillin / acid clavulanic",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "dexamethasone / neomycin / polymyxin b",
+    "generic_name_en": "dexamethasone / neomycin / polymyxin b",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "mesalamin",
+    "generic_name_en": "mesalamin",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "fluticasone propionate",
+    "generic_name_en": "fluticasone propionate",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "metformin hydroclorid",
+    "generic_name_en": "metformin hydroclorid",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "methylprednisolon",
+    "generic_name_en": "methylprednisolon",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "mifepristone",
+    "generic_name_en": "mifepristone",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "itopride hcl",
+    "generic_name_en": "itopride hcl",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "mometason furoat",
+    "generic_name_en": "mometason furoat",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "moxifloxacin hcl",
+    "generic_name_en": "moxifloxacin hcl",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "amoxicillin",
+    "generic_name_en": "amoxicillin",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "vitamin a / vitamin d3 / vitamin b1 / vitamin b2 / vitamin b6 / vitamin b3 / vitamin b12 / calci / magnesi / sắt / lysin hcl",
+    "generic_name_en": "vitamin a / vitamin d3 / vitamin b1 / vitamin b2 / vitamin b6 / vitamin b3 / vitamin b12 / calci / magnesi / sắt / lysin hcl",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "mosapride citrate",
+    "generic_name_en": "mosapride citrate",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "cao khô lá bạch quả",
+    "generic_name_en": "cao khô lá bạch quả",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "diacefyllin diphenhydramin",
+    "generic_name_en": "diacefyllin diphenhydramin",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "natri alginate / axit alginic / natri bicarbonate / calci carbonate / tá dược: mannitol / sucralose / silicon dioxide / vegetable magnesium stearate / glycerol behenate / mùi vị: chiết xuất gừng / tinh dầu gừng / chanh / bạc hà",
+    "generic_name_en": "natri alginate / axit alginic / natri bicarbonate / calci carbonate / tá dược: mannitol / sucralose / silicon dioxide / vegetable magnesium stearate / glycerol behenate / mùi vị: chiết xuất gừng / tinh dầu gừng / chanh / bạc hà",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "mỗi  chứa clobetasol propionat",
+    "generic_name_en": "mỗi  chứa clobetasol propionat",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "hydroxypropyl methylcellulose",
+    "generic_name_en": "hydroxypropyl methylcellulose",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "omeprazol / natri bicarbonat",
+    "generic_name_en": "omeprazol / natri bicarbonat",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "mebeverin hci",
+    "generic_name_en": "mebeverin hci",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "triamcinolon acetonid",
+    "generic_name_en": "triamcinolon acetonid",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "aluminum hydroxide  ; magnesium hydroxide ; simethicone",
+    "generic_name_en": "aluminum hydroxide  ; magnesium hydroxide ; simethicone",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "glucose khan  ; kali clorid; natri clorid; trinatri citrat khan",
+    "generic_name_en": "glucose khan  ; kali clorid; natri clorid; trinatri citrat khan",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "dexpathenol / dung dịch nano bạc / acid myristic / hexadecanol / na2 edta / isopropyl myristate / triethenolamine / polyethylene glycol / butan / propane / acid citric / frangrance / water",
+    "generic_name_en": "dexpathenol / dung dịch nano bạc / acid myristic / hexadecanol / na2 edta / isopropyl myristate / triethenolamine / polyethylene glycol / butan / propane / acid citric / frangrance / water",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "loperamid hydroclorid",
+    "generic_name_en": "loperamid hydroclorid",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "progesterone",
+    "generic_name_en": "progesterone",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "levosulpiride",
+    "generic_name_en": "levosulpiride",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "dabigatran etexilate",
+    "generic_name_en": "dabigatran etexilate",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "prednisolon",
+    "generic_name_en": "prednisolon",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "telmisartan  ; hydrochlorothiazide",
+    "generic_name_en": "telmisartan  ; hydrochlorothiazide",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "propranolol.hcl",
+    "generic_name_en": "propranolol.hcl",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "dextromethorphan hbr",
+    "generic_name_en": "dextromethorphan hbr",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "rebamipide",
+    "generic_name_en": "rebamipide",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "glycerin",
+    "generic_name_en": "glycerin",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "ethinylestradiol / desogestrel",
+    "generic_name_en": "ethinylestradiol / desogestrel",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "pinene  ; camphene; cineol bpc  ; fenchone; borneol; anethol",
+    "generic_name_en": "pinene  ; camphene; cineol bpc  ; fenchone; borneol; anethol",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "methyl salicylate; dl-camphor ; l-menthol; tocopherol acetate",
+    "generic_name_en": "methyl salicylate; dl-camphor ; l-menthol; tocopherol acetate",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "l-menthol  ; methyl salicylate",
+    "generic_name_en": "l-menthol  ; methyl salicylate",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "alverine citrate / simethicone",
+    "generic_name_en": "alverine citrate / simethicone",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "mỗi ml chứa: simethicon",
+    "generic_name_en": "mỗi ml chứa: simethicon",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "l-lysin hydroclorid:  mgvitamin pp:  mgd-calci pantothenat:  mgvitamin b6:  mgvitamin b2:  mgvitamin b1:",
+    "generic_name_en": "l-lysin hydroclorid:  mgvitamin pp:  mgd-calci pantothenat:  mgvitamin b6:  mgvitamin b2:  mgvitamin b1:",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "4 – dichlorobenzyl alcohol  ; amylmetacresol",
+    "generic_name_en": "4 – dichlorobenzyl alcohol  ; amylmetacresol",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "etifoxin hydroclorid",
+    "generic_name_en": "etifoxin hydroclorid",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "sulfadiazin bạc",
+    "generic_name_en": "sulfadiazin bạc",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "tamsulosin hydrochloride",
+    "generic_name_en": "tamsulosin hydrochloride",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "moxifloxacin / dexamethasone",
+    "generic_name_en": "moxifloxacin / dexamethasone",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "tenofovir alafenamid",
+    "generic_name_en": "tenofovir alafenamid",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "amitriptylin",
+    "generic_name_en": "amitriptylin",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "terbinafine hydrochloride",
+    "generic_name_en": "terbinafine hydrochloride",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "thiamazole",
+    "generic_name_en": "thiamazole",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "tobramycin / dexamethasone",
+    "generic_name_en": "tobramycin / dexamethasone",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "fenofibrate",
+    "generic_name_en": "fenofibrate",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "mỗi lọ  chứa: chlorpheniramine maleate  ; d-α-tocopherol acetate  ; potassium l-aspartate  ; pyridoxine hydrochloride  ; sodium chondroitin sulfate",
+    "generic_name_en": "mỗi lọ  chứa: chlorpheniramine maleate  ; d-α-tocopherol acetate  ; potassium l-aspartate  ; pyridoxine hydrochloride  ; sodium chondroitin sulfate",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "hộp  ọ  chứa: allantoin  ; chlorpheniramine maleate  ; potassium l-aspartate  ; pyridoxine hydrochloride  ; tetrahydrozoline hydrochloride",
+    "generic_name_en": "hộp  ọ  chứa: allantoin  ; chlorpheniramine maleate  ; potassium l-aspartate  ; pyridoxine hydrochloride  ; tetrahydrozoline hydrochloride",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "trimetazidine",
+    "generic_name_en": "trimetazidine",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "rutin  ; acid ascorbic",
+    "generic_name_en": "rutin  ; acid ascorbic",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "salbutamol",
+    "generic_name_en": "salbutamol",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "retinol acetate",
+    "generic_name_en": "retinol acetate",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "ascorbic acid",
+    "generic_name_en": "ascorbic acid",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "cao chiết bạch quả",
+    "generic_name_en": "cao chiết bạch quả",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "levonorgestrel / ethinylestradiol",
+    "generic_name_en": "levonorgestrel / ethinylestradiol",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "estriol; lactobacillus acidophilus",
+    "generic_name_en": "estriol; lactobacillus acidophilus",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "diclofenac natri",
+    "generic_name_en": "diclofenac natri",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "biodiastase / lipase / newlase",
+    "generic_name_en": "biodiastase / lipase / newlase",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "gói  thuốc chứa: azithromycin",
+    "generic_name_en": "gói  thuốc chứa: azithromycin",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "spiramycin / metronidazol",
+    "generic_name_en": "spiramycin / metronidazol",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "ampicilin",
+    "generic_name_en": "ampicilin",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
   }
 ]
