@@ -5098,5 +5098,57 @@
   {
     "ten": "Laevolac",
     "hc": "Lactulose"
+  },
+  {
+    "ten": "Alcaine 0,5%",
+    "hc": "Proparacain hydroclorid"
+  },
+  {
+    "ten": "Calci clorid",
+    "hc": "Calci clorid"
+  },
+  {
+    "ten": "Hemafolic 10ml",
+    "hc": "Sắt (III) hydroxyd polymaltose + acid folic"
+  },
+  {
+    "ten": "Hemafolic 5ml",
+    "hc": "Sắt (III) hydroxyd polymaltose + acid folic"
+  },
+  {
+    "ten": "Inlezone 600",
+    "hc": "Linezolid*"
+  },
+  {
+    "ten": "MORPHIN",
+    "hc": "Morphin"
+  },
+  {
+    "ten": "Vinphyton 10mg",
+    "hc": "Phytomenadion (Vitamin K1)"
+  },
+  {
+    "ten": "Amoxicillin/ Acid clavulanic 250 mg/ 31,25 mg",
+    "hc": "Amoxicilin + acid clavulanic"
+  },
+  {
+    "ten": "Clotrimazol 1%",
+    "hc": "Clotrimazol"
+  },
+  {
+    "ten": "Isoniazid 300mg [LTA]",
+    "hc": "Isoniazid"
+  },
+  {
+    "ten": "Melomax 15mg",
+    "hc": "Meloxicam"
+  },
+  {
+    "ten": "Piracetam",
+    "hc": "Piracetam"
+  },
+  {
+    "ten": "Ritocom [ARV]",
+    "hc": "Lopinavir + ritonavir (LPV/r)"
   }
 ]

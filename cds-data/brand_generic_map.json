@@ -9582,5 +9582,101 @@
     "dosage_form": "",
     "route": "",
     "is_primary": true
+  },
+  {
+    "brand_name": "alcaine 0,5%",
+    "generic_name": "proparacain hydroclorid",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "hemafolic 10ml",
+    "generic_name": "sắt   hydroxyd polymaltose / acid folic",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "hemafolic 5ml",
+    "generic_name": "sắt   hydroxyd polymaltose / acid folic",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "inlezone 600",
+    "generic_name": "linezolid*",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "morphin",
+    "generic_name": "morphin",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "vinphyton 10mg",
+    "generic_name": "phytomenadion",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "amoxicillin/ acid clavulanic 250 mg/ 31,25 mg",
+    "generic_name": "amoxicilin / acid clavulanic",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "clotrimazol 1%",
+    "generic_name": "clotrimazol",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "isoniazid 300mg [lta]",
+    "generic_name": "isoniazid",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "melomax 15mg",
+    "generic_name": "meloxicam",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "piracetam",
+    "generic_name": "piracetam",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "ritocom [arv]",
+    "generic_name": "lopinavir / ritonavir",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
   }
 ]
