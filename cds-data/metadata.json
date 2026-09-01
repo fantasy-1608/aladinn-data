@@ -1,8 +1,8 @@
 {
-    "ruleset_version": "2026-08-23-nhic-seed-55-rules",
+    "ruleset_version": "2026-09-01-nhic-seed-55-rules",
     "ruleset_source": "Checkmap Pipeline v1.0 + drug-lab hepatotoxicity expansion",
-    "last_updated": "2026-09-01T15:04:34.825Z",
-    "generation": 1788275074825,
+    "last_updated": "2026-09-01T15:20:00.000Z",
+    "generation": 1788276000000,
     "snapshot_sha256": "332e411bcc65fb727ac1f5cfc469e1035f42b622fd627dfb0d8ea30907350f3f",
     "files": {
         "drug_generic.json": {
