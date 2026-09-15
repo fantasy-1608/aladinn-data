@@ -5150,5 +5150,65 @@
   {
     "ten": "Ritocom [ARV]",
     "hc": "Lopinavir + ritonavir (LPV/r)"
+  },
+  {
+    "ten": "Amoxicilin/Acid clavulanic 500/125",
+    "hc": "Amoxicilin + acid clavulanic"
+  },
+  {
+    "ten": "BV Telmisartan 80",
+    "hc": "Telmisartan"
+  },
+  {
+    "ten": "Bastinfast 10",
+    "hc": "Ebastin"
+  },
+  {
+    "ten": "Cefdinir 125mg",
+    "hc": "Cefdinir"
+  },
+  {
+    "ten": "Envix 3",
+    "hc": "Ivermectin"
+  },
+  {
+    "ten": "Quinrox 500",
+    "hc": "Ciprofloxacin"
+  },
+  {
+    "ten": "TEPERINEP 25 mg",
+    "hc": "Amitriptylin hydroclorid"
+  },
+  {
+    "ten": "Tizanidin 4 mg",
+    "hc": "Tizanidin hydroclorid"
+  },
+  {
+    "ten": "Vadol codein caplet",
+    "hc": "Paracetamol + codein phosphat"
+  },
+  {
+    "ten": "Valsarfast Plus 160mg/25mg Film-Coated Tablets",
+    "hc": "Valsartan + hydroclorothiazid"
+  },
+  {
+    "ten": "Augbidil",
+    "hc": "Amoxicilin + acid clavulanic"
+  },
+  {
+    "ten": "Biragan 300",
+    "hc": "Paracetamol (acetaminophen)"
+  },
+  {
+    "ten": "Cefoperazone 1g",
+    "hc": "Cefoperazon"
+  },
+  {
+    "ten": "Forlax",
+    "hc": "Macrogol"
+  },
+  {
+    "ten": "Zinhepa Inj.",
+    "hc": "Cefpirom"
   }
 ]
