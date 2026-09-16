@@ -33,7 +33,7 @@
   },
   {
     "brand_name": "abacavir (as sulfat) 120mg/lamivudine 60mg",
-    "generic_name": "abacavir    lamivudine",
+    "generic_name": "abacavir / lamivudine",
     "strength_text": "",
     "dosage_form": "",
     "route": "",
@@ -1737,7 +1737,7 @@
   },
   {
     "brand_name": "hornol",
-    "generic_name": "cytidin-5monophosphat disodium / uridin",
+    "generic_name": "cytidin monophosphat disodium / uridin monophosphat disodium",
     "strength_text": "",
     "dosage_form": "",
     "route": "",
@@ -2106,14 +2106,6 @@
   {
     "brand_name": "ivagim 5",
     "generic_name": "ivabradin",
-    "strength_text": "",
-    "dosage_form": "",
-    "route": "",
-    "is_primary": true
-  },
-  {
-    "brand_name": "khẩu trang y tế (ktyt)",
-    "generic_name": "khẩu trang y tế chưa tiệt trùng - đtkt: khẩu trang  ớp hoặc  ớp không tiệt trùng <> hoặc tương đương",
     "strength_text": "",
     "dosage_form": "",
     "route": "",
@@ -5457,7 +5449,7 @@
   },
   {
     "brand_name": "nevirapine oral suspension 50mg/5ml lọ 100ml",
-    "generic_name": "nevirapine oral suspension   ọ",
+    "generic_name": "nevirapine",
     "strength_text": "",
     "dosage_form": "",
     "route": "",
@@ -6149,15 +6141,15 @@
     "strength_text": "",
     "dosage_form": "",
     "route": "",
-    "is_primary": false
+    "is_primary": true
   },
   {
     "brand_name": "solezol",
-    "generic_name": "linezolid*",
+    "generic_name": "esomeprazole",
     "strength_text": "",
     "dosage_form": "",
     "route": "",
-    "is_primary": false
+    "is_primary": true
   },
   {
     "brand_name": "cefazolin 2000",
@@ -6201,7 +6193,7 @@
   },
   {
     "brand_name": "medskin clovir 400",
-    "generic_name": "aciclovir",
+    "generic_name": "acyclovir",
     "strength_text": "",
     "dosage_form": "",
     "route": "",
@@ -7793,7 +7785,7 @@
   },
   {
     "brand_name": "cefixim 100mg",
-    "generic_name": "mỗi gói  chứa: cefixim",
+    "generic_name": "cefixim",
     "strength_text": "",
     "dosage_form": "",
     "route": "",
@@ -9241,7 +9233,7 @@
   },
   {
     "brand_name": "simethicon 40mg/ml (simecol)",
-    "generic_name": "mỗi ml chứa: simethicon",
+    "generic_name": "simethicon",
     "strength_text": "",
     "dosage_form": "",
     "route": "",
@@ -9249,7 +9241,7 @@
   },
   {
     "brand_name": "siro multroforkid 100ml ( hộp 1 chai )",
-    "generic_name": "l-lysin hydroclorid:  mgvitamin pp:  mgd-calci pantothenat:  mgvitamin b6:  mgvitamin b2:  mgvitamin b1:",
+    "generic_name": "l-lysin hydroclorid / vitamin pp / d-calci pantothenat / vitamin b6 / vitamin b2 / vitamin b1",
     "strength_text": "",
     "dosage_form": "",
     "route": "",
@@ -9257,7 +9249,7 @@
   },
   {
     "brand_name": "siro multroforkid 7.5ml ( hộp 20 ống )",
-    "generic_name": "l-lysin hydroclorid:  mgvitamin pp:  mgd-calci pantothenat:  mgvitamin b6:  mgvitamin b2:  mgvitamin b1:",
+    "generic_name": "l-lysin hydroclorid / vitamin pp / d-calci pantothenat / vitamin b6 / vitamin b2 / vitamin b1",
     "strength_text": "",
     "dosage_form": "",
     "route": "",
@@ -9417,7 +9409,7 @@
   },
   {
     "brand_name": "v.rohto vitamin",
-    "generic_name": "mỗi lọ  chứa: chlorpheniramine maleate  ; d-α-tocopherol acetate  ; potassium l-aspartate  ; pyridoxine hydrochloride  ; sodium chondroitin sulfate",
+    "generic_name": "chlorpheniramine maleate / d-α-tocopherol acetate / potassium l-aspartate / pyridoxine hydrochloride / sodium chondroitin sulfate",
     "strength_text": "",
     "dosage_form": "",
     "route": "",
@@ -9425,7 +9417,7 @@
   },
   {
     "brand_name": "v.rohto cool 12ml ( hộp 1 lọ)",
-    "generic_name": "hộp  ọ  chứa: allantoin  ; chlorpheniramine maleate  ; potassium l-aspartate  ; pyridoxine hydrochloride  ; tetrahydrozoline hydrochloride",
+    "generic_name": "allantoin / chlorpheniramine maleate / potassium l-aspartate / pyridoxine hydrochloride / tetrahydrozoline hydrochloride",
     "strength_text": "",
     "dosage_form": "",
     "route": "",
@@ -9537,7 +9529,7 @@
   },
   {
     "brand_name": "zaromax 100mg (hộp 24 gói)",
-    "generic_name": "gói  thuốc chứa: azithromycin",
+    "generic_name": "azithromycin",
     "strength_text": "",
     "dosage_form": "",
     "route": "",

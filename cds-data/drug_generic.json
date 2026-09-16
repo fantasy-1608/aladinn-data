@@ -32,8 +32,8 @@
     "is_active": true
   },
   {
-    "generic_name": "abacavir    lamivudine",
-    "generic_name_en": "abacavir    lamivudine",
+    "generic_name": "abacavir / lamivudine",
+    "generic_name_en": "abacavir / lamivudine",
     "atc_code": "",
     "pharmacologic_class": "unknown",
     "therapeutic_class": "unknown",
@@ -1376,14 +1376,6 @@
     "is_active": true
   },
   {
-    "generic_name": "cytidin-5monophosphat disodium / uridin",
-    "generic_name_en": "cytidin-5monophosphat disodium / uridin",
-    "atc_code": "",
-    "pharmacologic_class": "unknown",
-    "therapeutic_class": "unknown",
-    "is_active": true
-  },
-  {
     "generic_name": "hải sâm",
     "generic_name_en": "hải sâm",
     "atc_code": "",
@@ -1570,14 +1562,6 @@
   {
     "generic_name": "ivabradin",
     "generic_name_en": "ivabradin",
-    "atc_code": "",
-    "pharmacologic_class": "unknown",
-    "therapeutic_class": "unknown",
-    "is_active": true
-  },
-  {
-    "generic_name": "khẩu trang y tế chưa tiệt trùng - đtkt: khẩu trang  ớp hoặc  ớp không tiệt trùng <> hoặc tương đương",
-    "generic_name_en": "khẩu trang y tế chưa tiệt trùng - đtkt: khẩu trang  ớp hoặc  ớp không tiệt trùng <> hoặc tương đương",
     "atc_code": "",
     "pharmacologic_class": "unknown",
     "therapeutic_class": "unknown",
@@ -3512,14 +3496,6 @@
     "is_active": true
   },
   {
-    "generic_name": "nevirapine oral suspension   ọ",
-    "generic_name_en": "nevirapine oral suspension   ọ",
-    "atc_code": "",
-    "pharmacologic_class": "unknown",
-    "therapeutic_class": "unknown",
-    "is_active": true
-  },
-  {
     "generic_name": "nimodipin",
     "generic_name_en": "nimodipin",
     "atc_code": "",
@@ -4368,14 +4344,6 @@
     "is_active": true
   },
   {
-    "generic_name": "mỗi gói  chứa: cefixim",
-    "generic_name_en": "mỗi gói  chứa: cefixim",
-    "atc_code": "",
-    "pharmacologic_class": "unknown",
-    "therapeutic_class": "unknown",
-    "is_active": true
-  },
-  {
     "generic_name": "cetirizine dihydrochloride",
     "generic_name_en": "cetirizine dihydrochloride",
     "atc_code": "",
@@ -4688,8 +4656,8 @@
     "is_active": true
   },
   {
-    "generic_name": "cytidin monophosphat disodium  ; uridin monophosphat disodium",
-    "generic_name_en": "cytidin monophosphat disodium  ; uridin monophosphat disodium",
+    "generic_name": "cytidin monophosphat disodium / uridin monophosphat disodium",
+    "generic_name_en": "cytidin monophosphat disodium / uridin monophosphat disodium",
     "atc_code": "",
     "pharmacologic_class": "unknown",
     "therapeutic_class": "unknown",
@@ -5152,19 +5120,11 @@
     "is_active": true
   },
   {
-    "generic_name": "mỗi ml chứa: simethicon",
-    "generic_name_en": "mỗi ml chứa: simethicon",
+    "generic_name": "l-lysin hydroclorid / vitamin pp / d-calci pantothenat / vitamin b6 / vitamin b2 / vitamin b1",
+    "generic_name_en": "l-lysine hydrochloride / nicotinamide / calcium pantothenate / pyridoxine / riboflavin / thiamine",
     "atc_code": "",
-    "pharmacologic_class": "unknown",
-    "therapeutic_class": "unknown",
-    "is_active": true
-  },
-  {
-    "generic_name": "l-lysin hydroclorid:  mgvitamin pp:  mgd-calci pantothenat:  mgvitamin b6:  mgvitamin b2:  mgvitamin b1:",
-    "generic_name_en": "l-lysin hydroclorid:  mgvitamin pp:  mgd-calci pantothenat:  mgvitamin b6:  mgvitamin b2:  mgvitamin b1:",
-    "atc_code": "",
-    "pharmacologic_class": "unknown",
-    "therapeutic_class": "unknown",
+    "pharmacologic_class": "vitamin-amino-acid supplement",
+    "therapeutic_class": "supplement",
     "is_active": true
   },
   {
@@ -5256,16 +5216,16 @@
     "is_active": true
   },
   {
-    "generic_name": "mỗi lọ  chứa: chlorpheniramine maleate  ; d-α-tocopherol acetate  ; potassium l-aspartate  ; pyridoxine hydrochloride  ; sodium chondroitin sulfate",
-    "generic_name_en": "mỗi lọ  chứa: chlorpheniramine maleate  ; d-α-tocopherol acetate  ; potassium l-aspartate  ; pyridoxine hydrochloride  ; sodium chondroitin sulfate",
+    "generic_name": "chlorpheniramine maleate / d-α-tocopherol acetate / potassium l-aspartate / pyridoxine hydrochloride / sodium chondroitin sulfate",
+    "generic_name_en": "chlorpheniramine maleate / d-α-tocopherol acetate / potassium l-aspartate / pyridoxine hydrochloride / sodium chondroitin sulfate",
     "atc_code": "",
     "pharmacologic_class": "unknown",
     "therapeutic_class": "unknown",
     "is_active": true
   },
   {
-    "generic_name": "hộp  ọ  chứa: allantoin  ; chlorpheniramine maleate  ; potassium l-aspartate  ; pyridoxine hydrochloride  ; tetrahydrozoline hydrochloride",
-    "generic_name_en": "hộp  ọ  chứa: allantoin  ; chlorpheniramine maleate  ; potassium l-aspartate  ; pyridoxine hydrochloride  ; tetrahydrozoline hydrochloride",
+    "generic_name": "allantoin / chlorpheniramine maleate / potassium l-aspartate / pyridoxine hydrochloride / tetrahydrozoline hydrochloride",
+    "generic_name_en": "allantoin / chlorpheniramine maleate / potassium l-aspartate / pyridoxine hydrochloride / tetrahydrozoline hydrochloride",
     "atc_code": "",
     "pharmacologic_class": "unknown",
     "therapeutic_class": "unknown",
@@ -5352,14 +5312,6 @@
     "is_active": true
   },
   {
-    "generic_name": "gói  thuốc chứa: azithromycin",
-    "generic_name_en": "gói  thuốc chứa: azithromycin",
-    "atc_code": "",
-    "pharmacologic_class": "unknown",
-    "therapeutic_class": "unknown",
-    "is_active": true
-  },
-  {
     "generic_name": "spiramycin / metronidazol",
     "generic_name_en": "spiramycin / metronidazol",
     "atc_code": "",
@@ -5370,22 +5322,6 @@
   {
     "generic_name": "ampicilin",
     "generic_name_en": "ampicilin",
-    "atc_code": "",
-    "pharmacologic_class": "unknown",
-    "therapeutic_class": "unknown",
-    "is_active": true
-  },
-  {
-    "generic_name": "betamethason dipropionat / gentamicin / clotrimazole  ",
-    "generic_name_en": "betamethason dipropionat / gentamicin / clotrimazole  ",
-    "atc_code": "",
-    "pharmacologic_class": "unknown",
-    "therapeutic_class": "unknown",
-    "is_active": true
-  },
-  {
-    "generic_name": "betamethason dipropionat / gentamicin / clotrimazole  ",
-    "generic_name_en": "betamethason dipropionat / gentamicin / clotrimazole  ",
     "atc_code": "",
     "pharmacologic_class": "unknown",
     "therapeutic_class": "unknown",
