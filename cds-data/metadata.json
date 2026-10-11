@@ -1,19 +1,19 @@
 {
-    "ruleset_version": "2026-09-16-nhic-seed-84-rules",
+    "ruleset_version": "2026-10-11-nhic-seed-90-rules",
     "ruleset_source": "Checkmap Pipeline v1.0 + drug-lab hepatotoxicity expansion",
-    "last_updated": "2026-09-16T03:22:09.951Z",
-    "generation": 1789528929951,
-    "snapshot_sha256": "eaf6b1ecee9407d7a125ccb98440966335de20b60d314edb6d06c8aafac6adf6",
+    "last_updated": "2026-10-11T14:47:12.919Z",
+    "generation": 1791730032919,
+    "snapshot_sha256": "fa636bd5accb5b0ee249aad01b3e2646b4f57bb5186e1b4dfc7007cd4edabbd6",
     "files": {
         "drug_generic.json": {
-            "sha256": "645d92d012cb9e8b9ab29dfc8d3cfc04950385c6aa8b3489bbcc669f16068c3b",
-            "count": 668,
-            "bytes": 158866
+            "sha256": "29667ad6ffabb82c68a91100c0f2ae8b66ca6aa217603667f4b689cc78db44d3",
+            "count": 674,
+            "bytes": 160166
         },
         "brand_generic_map.json": {
-            "sha256": "c2a4609318f6917029efc293328810bb77d99c37464b4c2bfe6bbaa900e0fd51",
-            "count": 1224,
-            "bytes": 224369
+            "sha256": "ab23a76fd818ee0fa1096a78a8e325d47d597b1e5304549c5f8bad64713e5e11",
+            "count": 1243,
+            "bytes": 227624
         },
         "condition_group_icd_map.json": {
             "sha256": "652f0f4e965ae4f55b8bffae1168c38b2c5d2dfe045b80c4e8e9fa248c94bc3f",
@@ -21,9 +21,9 @@
             "bytes": 6966
         },
         "ddi_rules.json": {
-            "sha256": "d4aa26bbfae75506b5d8f4a593eefbf0b1cd69f6447f605a81ca5f7f5b311e13",
-            "count": 84,
-            "bytes": 81136
+            "sha256": "286becae8e5c7b777b1d5f6f1b70808b06ae47e213452a6bc8f6d289f216adb5",
+            "count": 90,
+            "bytes": 87259
         },
         "drug_disease_rules.json": {
             "sha256": "2ff3743ad9eaab49d87a9b9b1950281a10ab8aac8e0867ebc1bb0b30f5f70165",
@@ -41,9 +41,9 @@
             "bytes": 556
         },
         "insurance_rules.json": {
-            "sha256": "7ac534580e9a29ff3f2c361a4f8369e25291c4b139fa54c2a8966ccefcf22738",
-            "count": 117,
-            "bytes": 55991
+            "sha256": "7ec768eb6b7b89c85c6cec79efb95b6a45a7f7c81c13d1a07b9159ea5fb14813",
+            "count": 118,
+            "bytes": 56757
         },
         "renal_adjustment_rules.json": {
             "sha256": "b3f35cfc5aeb02917b65eb87244995e57270fe845b26dcfb289d7794aa84a463",

@@ -5342,5 +5342,53 @@
     "pharmacologic_class": "unknown",
     "therapeutic_class": "unknown",
     "is_active": true
+  },
+  {
+    "generic_name": "acitretin",
+    "generic_name_en": "acitretin",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "sắt gluconat / mangan gluconat / đồng gluconat",
+    "generic_name_en": "sắt gluconat / mangan gluconat / đồng gluconat",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "imipenem / cilastatin*",
+    "generic_name_en": "imipenem / cilastatin*",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "surfactant )",
+    "generic_name_en": "surfactant )",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "cefepime",
+    "generic_name_en": "cefepime",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "suxamethonium clorid",
+    "generic_name_en": "suxamethonium clorid",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
   }
 ]

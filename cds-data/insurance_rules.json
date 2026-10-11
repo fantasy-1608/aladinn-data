@@ -143,14 +143,25 @@
     "is_active": true
   },
   {
-    "rule_code": "INS-AUTO-ALFUZOSIN",
+    "rule_code": "INS-BHYT-ALFUZOSIN",
     "generic_name": "alfuzosin",
     "condition_type": "icd_prefix_required",
-    "condition_value": "I10,I11,I15,I20,I25,I50",
+    "condition_value": "N40,N41,R30,R33,R39,N13,N20,N21",
     "severity": "high",
-    "message": "Thuốc tim mạch / hạ áp cần chẩn đoán THA / Mạch vành / Suy tim (I10-I15, I20, I50).",
-    "recommendation": "Bổ sung mã chẩn đoán ICD-10 tương ứng hoặc lựa chọn phương án điều trị khác.",
-    "version": "1.2.0",
+    "message": "Alfuzosin (chẹn alpha-1 chọn lọc điều trị phì đại tiền liệt tuyến) cần chẩn đoán Phì đại TLT (N40) hoặc rối loạn tiểu tiện/sỏi niệu (R30-R39, N20-N21). Bị xuất toán nếu kê cho THA.",
+    "recommendation": "Bổ sung mã ICD N40 (BPH) hoặc R33/R39/N20. KHÔNG dùng mã tăng huyết áp (I10).",
+    "version": "1.3.0",
+    "is_active": true
+  },
+  {
+    "rule_code": "INS-BHYT-ALFUZOSIN-HCL",
+    "generic_name": "alfuzosin hydroclorid",
+    "condition_type": "icd_prefix_required",
+    "condition_value": "N40,N41,R30,R33,R39,N13,N20,N21",
+    "severity": "high",
+    "message": "Alfuzosin (chẹn alpha-1 chọn lọc điều trị phì đại tiền liệt tuyến) cần chẩn đoán Phì đại TLT (N40) hoặc rối loạn tiểu tiện/sỏi niệu (R30-R39, N20-N21). Bị xuất toán nếu kê cho THA.",
+    "recommendation": "Bổ sung mã ICD N40 (BPH) hoặc R33/R39/N20. KHÔNG dùng mã tăng huyết áp (I10).",
+    "version": "1.3.0",
     "is_active": true
   },
   {

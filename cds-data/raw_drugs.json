@@ -112,7 +112,7 @@
     "hc": "Chè dây"
   },
   {
-    "ten": "An Thần Bổ Tâm - F",
+    "ten": "An Thần Bổ Tâm - F",
     "hc": "Sinh địa, Mạch môn,Thiên môn đông, Táo nhân, Bá tử nhân, Huyền sâm, Viễn chí, Ngũ vị tử, Đảng sâm, Đương quy, Đan sâm, Phục thần, Cát cánh."
   },
   {
@@ -329,7 +329,7 @@
   },
   {
     "ten": "Bổ khí thông huyết - BVP",
-    "hc": "Hoàng kỳ, Đào nhân, Hồng hoa, Địa long,  Nhân sâm, Xuyên khung, Đương quy, Xích thược, Bạch thược"
+    "hc": "Hoàng kỳ, Đào nhân, Hồng hoa, Địa long, Nhân sâm, Xuyên khung, Đương quy, Xích thược, Bạch thược"
   },
   {
     "ten": "Bổ phế trị ho",
@@ -373,10 +373,6 @@
   },
   {
     "ten": "Caltestin (Viêm đại tràng Xuân Quang)",
-    "hc": "Trần bì, Đương quy, Mạch nha, Phục linh, Chỉ xác, Thanh bì, Bạch Truật, Hậu phác, Bạch đậu khấu, Can khương, Mộc hương."
-  },
-  {
-    "ten": "Caltestin (Viêm đại tràng xuân quang)",
     "hc": "Trần bì, Đương quy, Mạch nha, Phục linh, Chỉ xác, Thanh bì, Bạch Truật, Hậu phác, Bạch đậu khấu, Can khương, Mộc hương."
   },
   {
@@ -696,7 +692,7 @@
     "hc": "Enalapril"
   },
   {
-    "ten": "Enaplus  HCT 5/12.5",
+    "ten": "Enaplus HCT 5/12.5",
     "hc": "Enalapril + hydrochlorothiazid"
   },
   {
@@ -1556,10 +1552,6 @@
     "hc": "Hà thủ ô đỏ, Thổ phục linh, Thương nhĩ tử, Hy Thiêm, Thiên niên kiện, Đương quy, Huyết giác"
   },
   {
-    "ten": "Phong tê thấp HD New",
-    "hc": "Mã tiền chế, Đương qui, Đỗ trọng, Ngưu tất, Quế Chi, Độc hoạt, Thương truật, Thổ phục linh"
-  },
-  {
     "ten": "Posod",
     "hc": "Kali iodid + natri iodid"
   },
@@ -1662,10 +1654,6 @@
   {
     "ten": "SaVi Candesartan 12",
     "hc": "Candesartan"
-  },
-  {
-    "ten": "SaVi Etoricoxib 30",
-    "hc": "Etoricoxib"
   },
   {
     "ten": "SaVi Mesalazine 500",
@@ -1876,7 +1864,7 @@
     "hc": "Hydroclorothiazid"
   },
   {
-    "ten": "Thuốc Ho Bổ Phế",
+    "ten": "Thuốc Ho Bổ Phế",
     "hc": "Trần bì, Cát cánh, Tiền hồ, Tô diệp, Tử uyển, Thiên môn, Tang bạch bì, Tang diệp, Cam thảo, Ô mai, Khương hoàng, Menthol"
   },
   {
@@ -2101,7 +2089,7 @@
   },
   {
     "ten": "Viên an thần Rutynda",
-    "hc": "Lá sen,Vông nem,  Lạc tiên, Bình vôi"
+    "hc": "Lá sen,Vông nem, Lạc tiên, Bình vôi"
   },
   {
     "ten": "Viên bách trĩ",
@@ -2225,7 +2213,7 @@
   },
   {
     "ten": "BACQURE 500MG",
-    "hc": "Imipenem 500mg,  Cilastatin (dưới  dạng cilastatin  natri) 500mg"
+    "hc": "Imipenem 500mg, Cilastatin (dưới dạng cilastatin natri) 500mg"
   },
   {
     "ten": "BFS - Amiron",
@@ -2784,7 +2772,7 @@
     "hc": "Nước cất pha tiêm"
   },
   {
-    "ten": "Nước oxy già 3%",
+    "ten": "Nước oxy già 3%",
     "hc": "Nước oxy già"
   },
   {
@@ -3528,10 +3516,6 @@
     "hc": "Nefopam hydroclorid"
   },
   {
-    "ten": "Atropin sulfat",
-    "hc": "Atropin sulfat"
-  },
-  {
     "ten": "Ketamine Hydrochloride injection",
     "hc": "Ketamin"
   },
@@ -3570,10 +3554,6 @@
   {
     "ten": "TELDY [ARV]",
     "hc": "Tenoforvir + lamivudine + dolutegravir"
-  },
-  {
-    "ten": "Tùng Lộc Thanh Nhiệt Tán",
-    "hc": "Hoạt thạch, Cam thảo"
   },
   {
     "ten": "Betagen 24",
@@ -3853,7 +3833,7 @@
   },
   {
     "ten": "BAR",
-    "hc": "Bột Bìm Bìm (Semen Pharbitidis); Cao đặc Actisô (Extractum Cynarae spissum) (tương đương dược liệu khô lá actisô 1000mg); Cao đặc Rau Đắng Đất (Extractum Glini oppositifolii) (tương đương dược liệu khô cây rau đắng đất 562,5mg)"
+    "hc": "Bột Bìm Bìm (Semen Pharbitidis); Cao đặc Actisô (Extractum Cynarae spissum) (tương đương dược liệu khô lá actisô 1000mg); Cao đặc Rau Đắng Đất (Extractum Glini oppositifolii) (tương đương dược liệu khô cây rau đắng đất 562,5mg)"
   },
   {
     "ten": "BUSTIDIN 20",
@@ -4360,10 +4340,6 @@
     "hc": "Húng chanh (Folium Plectranthi amboinici); Núc nác (Cortex Oroxyli); Cineol"
   },
   {
-    "ten": "Hornol",
-    "hc": "Cytidin monophosphat disodium 5mg; Uridin monophosphat disodium 3mg"
-  },
-  {
     "ten": "Hoạt huyết dưỡng não DHG (hộp 100 viên)",
     "hc": "-"
   },
@@ -4502,10 +4478,6 @@
   {
     "ten": "Medoclav 375mg",
     "hc": "Amoxicillin (250mg) , Acid Clavulanic (125mg)"
-  },
-  {
-    "ten": "Medskin clovir 400",
-    "hc": "Acyclovir"
   },
   {
     "ten": "Mepoly Merap 10ml",
@@ -4836,7 +4808,7 @@
     "hc": "Trimebutin maleat"
   },
   {
-    "ten": "Salonpas  (hộp 5 hộp nhỏ 40 miếng)",
+    "ten": "Salonpas (hộp 5 hộp nhỏ 40 miếng)",
     "hc": "Methyl salicylate; dl-Camphor ; l-Menthol; Tocopherol acetate 2 %"
   },
   {
@@ -4844,7 +4816,7 @@
     "hc": "l-Menthol (w/w); Methyl salicylate (w/w)"
   },
   {
-    "ten": "Silymarin 140mg  (LIVOSIL)",
+    "ten": "Silymarin 140mg (LIVOSIL)",
     "hc": "Silymarin"
   },
   {
@@ -4996,7 +4968,7 @@
     "hc": "Retinol acetate"
   },
   {
-    "ten": "Vitamin AD gold (hộp 100 viên)  Phúc Vinh",
+    "ten": "Vitamin AD gold (hộp 100 viên) Phúc Vinh",
     "hc": "-"
   },
   {
@@ -5104,10 +5076,6 @@
     "hc": "Proparacain hydroclorid"
   },
   {
-    "ten": "Calci clorid",
-    "hc": "Calci clorid"
-  },
-  {
     "ten": "Hemafolic 10ml",
     "hc": "Sắt (III) hydroxyd polymaltose + acid folic"
   },
@@ -5210,5 +5178,81 @@
   {
     "ten": "Zinhepa Inj.",
     "hc": "Cefpirom"
+  },
+  {
+    "ten": "Ambron tab",
+    "hc": "Ambroxol"
+  },
+  {
+    "ten": "Auclanityl 562,5mg",
+    "hc": "Amoxicilin + acid clavulanic"
+  },
+  {
+    "ten": "Betaclo",
+    "hc": "Clobetasol propionat"
+  },
+  {
+    "ten": "Cefadroxil 250 mg",
+    "hc": "Cefadroxil"
+  },
+  {
+    "ten": "Dalekine",
+    "hc": "Valproat natri"
+  },
+  {
+    "ten": "Fefasdin 60",
+    "hc": "Fexofenadin"
+  },
+  {
+    "ten": "Fellaini",
+    "hc": "Acitretin"
+  },
+  {
+    "ten": "Remebentin 100",
+    "hc": "Gabapentin"
+  },
+  {
+    "ten": "Axuka",
+    "hc": "Amoxicilin + acid clavulanic"
+  },
+  {
+    "ten": "Bifehema",
+    "hc": "Sắt gluconat + mangan gluconat + đồng gluconat"
+  },
+  {
+    "ten": "Bimesta",
+    "hc": "Imipenem + cilastatin*"
+  },
+  {
+    "ten": "Curosurf",
+    "hc": "Surfactant (Phospholipid chiết xuất từ phổi lợn hoặc phổi bò; hoặc chất diện hoạt chiết xuất từ phổi bò (Bovine lung surfactant))"
+  },
+  {
+    "ten": "Depaxan",
+    "hc": "Dexamethason"
+  },
+  {
+    "ten": "Drenoxol",
+    "hc": "Ambroxol"
+  },
+  {
+    "ten": "Maxapin 1g",
+    "hc": "Cefepime"
+  },
+  {
+    "ten": "Methocarbamol 500mg",
+    "hc": "Methocarbamol"
+  },
+  {
+    "ten": "Senitram 1g/0,5g",
+    "hc": "Ampicilin + sulbactam"
+  },
+  {
+    "ten": "Suxamethonium Chlorid Vuab 100mg",
+    "hc": "Suxamethonium clorid"
+  },
+  {
+    "ten": "Vaminolact",
+    "hc": "Acid amin*"
   }
 ]
