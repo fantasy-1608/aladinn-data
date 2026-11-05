@@ -9942,5 +9942,141 @@
     "dosage_form": "",
     "route": "",
     "is_primary": true
+  },
+  {
+    "brand_name": "adrenalin 5 mg/5 ml",
+    "generic_name": "epinephrin",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "aopevin",
+    "generic_name": "cafein citrat",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "atisolu 125 inj",
+    "generic_name": "methyl prednisolon",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "colisodi 1,0 miu",
+    "generic_name": "colistin*",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "colistin 2 miu",
+    "generic_name": "colistin*",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "fentanyl kalceks 0,05mg/ml",
+    "generic_name": "fentanyl",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "hepagold",
+    "generic_name": "acid amin*",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "kidmin",
+    "generic_name": "acid amin*",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "methylergo inj",
+    "generic_name": "methyl ergometrin maleat",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "oxytocin",
+    "generic_name": "oxytocin",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "phenobarbital",
+    "generic_name": "phenobarbital",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "abalam (abacavir sulfate 600mg/lamivudine 300mg)",
+    "generic_name": "abacavir / lamivudin",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "amlodipine stella 10 mg",
+    "generic_name": "amlodipin",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "ciprofloxacin 0,3%",
+    "generic_name": "ciprofloxacin",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "etoricoxib 60",
+    "generic_name": "etoricoxib",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "isoniazid 300mg [lta- qtc]",
+    "generic_name": "isoniazid",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "tuzamin",
+    "generic_name": "tục đoạn / phòng phong / hy thiêm / độc hoạt / tần giao / bạch thược / đương quy / xuyên khung / thiên niên kiện / ngưu tất / hoàng kỳ / đỗ trọng",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
   }
 ]

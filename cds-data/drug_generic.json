@@ -5390,5 +5390,21 @@
     "pharmacologic_class": "unknown",
     "therapeutic_class": "unknown",
     "is_active": true
+  },
+  {
+    "generic_name": "abacavir / lamivudin",
+    "generic_name_en": "abacavir / lamivudin",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
+  },
+  {
+    "generic_name": "tục đoạn / phòng phong / hy thiêm / độc hoạt / tần giao / bạch thược / đương quy / xuyên khung / thiên niên kiện / ngưu tất / hoàng kỳ / đỗ trọng",
+    "generic_name_en": "tục đoạn / phòng phong / hy thiêm / độc hoạt / tần giao / bạch thược / đương quy / xuyên khung / thiên niên kiện / ngưu tất / hoàng kỳ / đỗ trọng",
+    "atc_code": "",
+    "pharmacologic_class": "unknown",
+    "therapeutic_class": "unknown",
+    "is_active": true
   }
 ]

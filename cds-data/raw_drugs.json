@@ -5254,5 +5254,73 @@
   {
     "ten": "Vaminolact",
     "hc": "Acid amin*"
+  },
+  {
+    "ten": "Adrenalin 5 mg/5 ml",
+    "hc": "Epinephrin (adrenalin)"
+  },
+  {
+    "ten": "Aopevin",
+    "hc": "Cafein citrat"
+  },
+  {
+    "ten": "Atisolu 125 inj",
+    "hc": "Methyl prednisolon"
+  },
+  {
+    "ten": "Colisodi 1,0 MIU",
+    "hc": "Colistin*"
+  },
+  {
+    "ten": "Colistin 2 MIU",
+    "hc": "Colistin*"
+  },
+  {
+    "ten": "Fentanyl Kalceks 0,05mg/ml",
+    "hc": "Fentanyl"
+  },
+  {
+    "ten": "Hepagold",
+    "hc": "Acid amin*"
+  },
+  {
+    "ten": "Kidmin",
+    "hc": "Acid amin*"
+  },
+  {
+    "ten": "Methylergo Inj",
+    "hc": "Methyl ergometrin maleat"
+  },
+  {
+    "ten": "Oxytocin",
+    "hc": "Oxytocin"
+  },
+  {
+    "ten": "Phenobarbital",
+    "hc": "Phenobarbital"
+  },
+  {
+    "ten": "Abalam (Abacavir Sulfate 600mg/Lamivudine 300mg)",
+    "hc": "600mg Abacavir dưới dạng abacavir sulfat USP và 300mg Lamivudin USP"
+  },
+  {
+    "ten": "Amlodipine STELLA 10 mg",
+    "hc": "Amlodipin"
+  },
+  {
+    "ten": "Ciprofloxacin 0,3%",
+    "hc": "Ciprofloxacin"
+  },
+  {
+    "ten": "Etoricoxib 60",
+    "hc": "Etoricoxib"
+  },
+  {
+    "ten": "Isoniazid 300mg [LTA- QTC]",
+    "hc": "Isoniazid"
+  },
+  {
+    "ten": "Tuzamin",
+    "hc": "Tục đoạn, Phòng phong, Hy thiêm, Độc hoạt, Tần giao, Bạch thược, Đương quy, Xuyên khung, Thiên niên kiện, Ngưu tất, Hoàng kỳ, Đỗ trọng"
   }
 ]
