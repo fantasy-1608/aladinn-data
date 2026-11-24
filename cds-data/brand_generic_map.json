@@ -10078,5 +10078,141 @@
     "dosage_form": "",
     "route": "",
     "is_primary": true
+  },
+  {
+    "brand_name": "dexamethasone 4mg/1ml",
+    "generic_name": "dexamethasone natri phosphat",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "iv immunoglobulin 5% octapharma",
+    "generic_name": "immune globulin",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "mathomax-s gel plus",
+    "generic_name": "magnesi hydroxyd / nhôm hydroxyd / simethicon",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "notrixum",
+    "generic_name": "atracurium besylat",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "nước cất pha tiêm 10ml",
+    "generic_name": "nước cất pha tiêm",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "nước cất pha tiêm 500ml",
+    "generic_name": "nước cất pha tiêm",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "povidone iodine 10%",
+    "generic_name": "povidon iodin",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "a.t mequitazine 5 mg",
+    "generic_name": "mequitazin",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "celecoxib",
+    "generic_name": "celecoxib",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "etorlod 300",
+    "generic_name": "etodolac",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "flusort",
+    "generic_name": "fluticason propionat",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "irbesartan",
+    "generic_name": "irbesartan",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "mirenzine 5",
+    "generic_name": "flunarizin",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "nhuận gan p/h",
+    "generic_name": "diệp hạ châu / bồ bồ / chi tử",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "rixamic",
+    "generic_name": "natri montelukast",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "wosulin 30/70",
+    "generic_name": "insulin người trộn / hỗn hợp",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
+  },
+  {
+    "brand_name": "zafular",
+    "generic_name": "bezafibrat",
+    "strength_text": "",
+    "dosage_form": "",
+    "route": "",
+    "is_primary": true
   }
 ]

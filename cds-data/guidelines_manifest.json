@@ -1,0 +1,15 @@
+{
+    "dataset_id": "surgical_guidelines",
+    "guidelines_version": "2026-11-22-surgical-batch1-40-guidelines",
+    "ruleset_source": "Bộ Y tế Việt Nam + AO/AAOS/BOAST/WSES/TG18/EAU",
+    "last_updated": "2026-11-22T16:23:08.477Z",
+    "generation": 1795364588477,
+    "snapshot_sha256": "26a0ac22cfe14354e07bc294c5ddead448b6fcb0a1679132e44885563dbd383e",
+    "files": {
+        "surgical_guidelines.json": {
+            "sha256": "b4b08e4c1ad612278d9d7145f69e6b29eb13db1d65f3b21be57efdbf4ebd7672",
+            "count": 40,
+            "bytes": 294471
+        }
+    }
+}
